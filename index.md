@@ -6,30 +6,27 @@ title: Adam Willats's CV
 # Adam Willats
 Graduate Research Assistant researching at the intersection of systems neuroscience and closed-loop control
 
-
 <div id="webaddress">
 <a href="adamwillats@gmail.com">adamwillats@gmail.com </a>
 | <a href="github.com/awillats">awillats @ github</a>
 | <a href="linkedin.com/in/adam-willats">linkedin</a>
 </div>
 
-
 ### Currently
 Graduate Research Assistant at Georgia Institute of Technology & Emory University  (BME)
 
-### Specialized in
+### Research interests
 Modeling and analysis of neural systems, designing and characterizing control algorithms for the brain.
 
-### Research interests
-
+<hr style="border: 1px dashed #C0C0C0;" />
 ## Experience
 
 `2014-present`
-**Graduate Research Assistant**, Georgia Institute of Technology & Emory University [SIPLAB](http://siplab.gatech.edu/)
+**Graduate Research Assistant**, Georgia Institute of Technology & Emory University, [SIPLAB](http://siplab.gatech.edu/)
 - did things
 
 `Jan 2014-Jun 2014`
-**Undergraduate Researcher**, Purdue University
+**Undergraduate Researcher**, Purdue University, [Center for implantable Devices](https://engineering.purdue.edu/CID)
 - Conducted surgeries and developed technology and signal processing algorithms to develop novel ways to control intraocular pressure (IOP) for the treatment of Glaucoma
 
 `May 2013-Aug 2013`
@@ -39,13 +36,13 @@ Modeling and analysis of neural systems, designing and characterizing control al
 - Researched security concerns associated with wireless-enabled implantable medical devices
 
 `Aug 2010 – May 2013`
-**Graphic Designer - Interactive Info. visualization**, The Purude Exponent Newspaper
+**Graphic Designer - Interactive Info. visualization**, The Purdue Exponent Newspaper
 - Created illustrations, designs, and data visualizations.
 - Created interactive online content.
 
 `May 2012-Aug 2012`
 **Undergraduate Researcher**, Purdue University [e-Lab](https://e-lab.github.io/)
-- Worked with integrating artificial vision systems with mobile robotics platforms as part of the Purdue Summer Undergraduate Research Fellowship (SURF) program.
+- Worked with integrating artificial vision systems with mobile robotics platforms as part of the Purdue Summer Undergraduate Research Fellowship (SURF) program. [[video]]](https://www.youtube.com/watch?v=gULR_IYgruU&ab_channel=EugenioCulurciello)
 - Programmed in C++ and Lua using Robot Operating System (ROS) and torch7
 
 
@@ -64,23 +61,35 @@ Modeling and analysis of neural systems, designing and characterizing control al
 **B.Sc. in Biomedical Engineering**
 -   Purdue University
 
-`dates`
-**Location**
--   Title
+### Select Courses
 
-## Awards
+`2017`
+[**Data science and scientific computing**](https://ideas.gatech.edu/ideas-summer-workshop-teaches-skills-scientific-computing-and-data-science), [Institute for Data Engineering and Science (IDEaS)](https://ideas.gatech.edu/) - Georgia Institute of Technology
 
-`date`
-title, _institution_, location
+`2015`
+[**Mining and modeling neuroscience data**](https://crcns.org/course), UC Berkeley
+- The goal of this summer course is to help researchers find new exciting research areas and at the same time to strengthen quantitative expertise in the field of neuroscience.
+- The course integrated lectures from prominent researchers in computational neuroscience, with hands-on analysis of a variety of neuroscience data sets.
 
-`date`
-title, _institution_, location
+`2015`
+[**Machine Learning for Control Systems**](https://sites.gatech.edu/acds/), Georgia Institute of Technology
+
+<hr style="border: 1px dashed #C0C0C0;" />
+## Honors and Awards
+
+`2015`
+**President's Fellowship** - Georgia Institute of Technology
+
+- Through the continued support of the Georgia Tech Foundation, PFs are offered annually to a select number of highly qualified applicants who intend to pursue doctoral degrees. Fellowship recipients bring exemplary levels of scholarship and innovation to the academic departments who host their study and research.
+
+`2014 - 2018`
+[**Computational Neuroscience Training Grant**](http://nec.gatech.edu/t32-training-program) - NIH, Emory University, Georgia Institute of Technology
+- This program supports cross-institute and interdisciplinary training in computational neuroscience, machine learning, and neural engineering.
+- As a trainee in this program I participated in research across multiple laboratories, led journal clubs, organized retreats, and attended training at UC Berkeley.
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en) -->
-
-### Journals
+### Journal Articles
 
 [ORCiD,](https://orcid.org/0000-0002-0747-5186)
 [Google Scholar](https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en)
@@ -91,17 +100,47 @@ title, _institution_, location
 [@Bolus2018]
 [@Chow2013]
 
-`date`
-title
+### Conference Presentations
+
+`2020`
+**When are open- and closed-loop control necessary for causal inference in neural circuits?** Neuromatch.io
+- [[Abstract],](https://neuromatch.io/abstract/?submission_id=recAss5l8wdgBbnAm) [[Talk on YouTube]](https://youtu.be/oUKBDF2B3Sw)
+
+`2018`
+**State-aware control of neural activity: design & analysis** - COSYNE [[II-38 in program]](http://cosyne.org/cosyne18/Cosyne2018_program_book.pdf#page=161)
+
+`2016`
+**Closed loop optogenetic control of neural circuits: Tracking dynamic trajectories of neural activity** - COSYNE [[II-42 in program](http://cosyne.org/cosyne16/Cosyne2016_program_book.pdf)
+
+`2016`
+**Understanding optogenetic stimulation strategies: a study of opsin-neuron models and their spiking behaviors**
+- Society for Neuroscience (SfN)
+-[[Abstract]](https://www.abstractsonline.com/pp8/index.html#!/4071/presentation/1310)
 
 ### Patents
 
 `2020`
-System for Automated Analysis of Sleep and Wake States, [link](https://emoryott.technologypublisher.com/technology/42436)
+System for Automated Analysis of Sleep and Wake States, [[link]](https://emoryott.technologypublisher.com/technology/42436)
 
 `2020`
-Optical Pressure Treatment through Electrical Stimulation, [link](https://patents.google.com/patent/US20190001134A1)
+Optical Pressure Treatment through Electrical Stimulation, [[link]](https://patents.google.com/patent/US20190001134A1)
 
+## Outreach & Mentoring
+`2020-2021`
+**Lab Training Guide**
+- Initiated and developed document for helping graduate students succeed at research
+
+`2018`
+**Georgia Intern Fellowship for Teachers (GIFT) program, Center for Education
+Integrating Science, Mathematics, and Computing [(CEISMC)](https://www.ceismc.gatech.edu/)**
+- Mentored teacher in developing curriculum centered around digital signal processing
+
+`2016-2018`
+**Kids Interested In Technology, Engineering, and Science (KITES) festival**
+- built Arduino-based recording unit for real-time signal measurement and display based on [Backyard Brains EMG kit](https://backyardbrains.com/experiments/musclespikerbox)
+- helped develop activity plan for 4th grade students to plot and analyze data
+- [[2018 event]](https://stanley.gatech.edu/2018/05/stanley-lab-demonstrates-how-our-brain-controls-our-muscles-at-scott-elementary-science-and-technology-festival/)
+- [[2016 event]](https://stanley.gatech.edu/2016/06/outreach-event-the-childrens-school/)
 
 
 <!-- ### Footer
