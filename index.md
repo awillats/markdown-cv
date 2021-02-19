@@ -1,91 +1,109 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Adam Willats's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Adam Willats
+Graduate Research Assistant researching at the intersection of systems neuroscience and closed-loop control
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="adamwillats@gmail.com">adamwillats@gmail.com </a>
+| <a href="github.com/awillats">awillats @ github</a>
+| <a href="linkedin.com/in/adam-willats">linkedin</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
+### Currently
+Graduate Research Assistant at Georgia Institute of Technology & Emory University  (BME)
 
 ### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Modeling and analysis of neural systems, designing and characterizing control algorithms for the brain.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Experience
 
+`2014-present`
+**Graduate Research Assistant**, Georgia Institute of Technology & Emory University [SIPLAB](http://siplab.gatech.edu/)
+- did things
+
+`Jan 2014-Jun 2014`
+**Undergraduate Researcher**, Purdue University
+- Conducted surgeries and developed technology and signal processing algorithms to develop novel ways to control intraocular pressure (IOP) for the treatment of Glaucoma
+
+`May 2013-Aug 2013`
+**Intern - R&D**, Cyberonics (now LivaNova)
+- Characterized, and tested radio frequency programming system for vagus nerve stimulator
+- Streamlined collection and visualization of oscilloscope data by developing a MATLAB GUI
+- Researched security concerns associated with wireless-enabled implantable medical devices
+
+`Aug 2010 – May 2013`
+**Graphic Designer - Interactive Info. visualization**, The Purude Exponent Newspaper
+- Created illustrations, designs, and data visualizations.
+- Created interactive online content.
+
+`May 2012-Aug 2012`
+**Undergraduate Researcher**, Purdue University [e-Lab](https://e-lab.github.io/)
+- Worked with integrating artificial vision systems with mobile robotics platforms as part of the Purdue Summer Undergraduate Research Fellowship (SURF) program.
+- Programmed in C++ and Lua using Robot Operating System (ROS) and torch7
+
+
+`Jun 2011-Aug 2011`
+**Clinical Engineering Intern**, Columbus Regional Hospital, Columbus, IN
+- Repair, maintenance, and troubleshooting of the hospital's medical equipment
+- Developed preventative maintenance tests in Fluke Biomedical's Ansur Software
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2021`
+**Ph.D. in Biomedical Engineering**
+-   Georgia Institute of Technology & Emory University
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2010-2014`
+**B.Sc. in Biomedical Engineering**
+-   Purdue University
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`dates`
+**Location**
+-   Title
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`date`
+title, _institution_, location
 
-Associate, *French Academy of Science*, Paris, France
-
-
+`date`
+title, _institution_, location
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en) -->
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+[ORCiD,](https://orcid.org/0000-0002-0747-5186)
+[Google Scholar](https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en)
 
-`1669`
-Lectiones opticæ.
+[@Fallah2020]
+[@Bolus2020]
+[@Cakmak2020]
+[@Bolus2018]
+[@Chow2013]
 
-etc. etc. etc.
+`date`
+title
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2020`
+System for Automated Analysis of Sleep and Wake States, [link](https://emoryott.technologypublisher.com/technology/42436)
 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2020`
+Optical Pressure Treatment through Electrical Stimulation, [link](https://patents.google.com/patent/US20190001134A1)
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: Feb 2021 -->
