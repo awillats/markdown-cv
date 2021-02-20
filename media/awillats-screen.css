@@ -3,6 +3,25 @@
    License: none (public domain)
 */
 
+:root{
+
+/*solarized light*/
+	--background-color: #fdf6e3;
+	--text-bold: #002b36	;
+	--text-color: #586e75	;
+	--accent-color: #cb4b16;
+	--light-color: #b7c6c6;
+ /*traditional color palette*/
+/*
+	--background-color: #fff;
+	--text-bold: #000;
+	--text-color: #111;
+	--accent-color: #09ab7d;
+	--light-color: #c0c0c0;
+*/
+
+}
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -57,8 +76,11 @@ body {
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
+	/*font-family: Helvetica,serif;*/
 	margin-top: 1em;
 	margin-left: 1em;
+	color: var(--text-color);
+	background-color: var(--background-color);
 }
 
 p {
@@ -69,12 +91,13 @@ p {
 	width: 55%;
 }
 
+/* used for dates */
 code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: var(--light-color);
 }
 
 p code {
@@ -93,11 +116,11 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -120,6 +143,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
+	color: var(--text-bold);
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
@@ -132,11 +156,12 @@ h1+p {
 	font-style: italic;
 	font-size: 110%;
 }
-
+/*left column highlights*/
 h2 {
+	font-weight: bolder;
 	font-size: 1.1em;
-	color: #bc412b;
-	margin-top: 3em;
+	color: var(--accent-color) ;/*accent color #bc412b;*/
+	margin-top: 0em; /*3em*/
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -152,6 +177,15 @@ h3 {
 	width: 20%;
 }
 
+/*<hr style="border: 1px dashed #C0C0C0;" />*/
+hr {
+	margin-top: 2em;
+	border-width: 1px ;
+	border-style: dashed;
+	/*border-style: ridge;*/
+	color: var(--light-color);
+}
+
 a {
 	color: inherit;
 	/*text-decoration:none*/
@@ -165,7 +199,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #bc412b;
+	color: var(--accent-color);
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }
@@ -181,6 +215,7 @@ em {
 
 strong {
 	font-weight: bold;
+	color: var(--text-bold);
 }
 
 #address {
