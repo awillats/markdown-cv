@@ -5,12 +5,22 @@
 
 :root{
 
+/* starry night
+https://www.schemecolor.com/starry-starry-night.php */
+	--background-color:#0B1E38;
+	--text-bold: #E8E163	;
+	--text-color: #faf7c5;
+	--accent-color: #DB901C;
+	--light-color: #4888C8;
+
 /*solarized light*/
+/*
 	--background-color: #fdf6e3;
 	--text-bold: #002b36	;
 	--text-color: #586e75	;
 	--accent-color: #cb4b16;
 	--light-color: #b7c6c6;
+*/
  /*traditional color palette*/
 /*
 	--background-color: #fff;

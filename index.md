@@ -7,9 +7,11 @@ title: Adam Willats's CV
 Graduate Research Assistant researching at the intersection of systems neuroscience and closed-loop control
 
 <div id="webaddress">
-<a href="adamwillats@gmail.com">adamwillats@gmail.com </a>
-| <a href="github.com/awillats">awillats @ github</a>
-| <a href="linkedin.com/in/adam-willats">linkedin</a>
+<a href="tel:+1-812-371-0379"><i class="fas fa-phone"></i> +1 (812) 371 - 0379</a>
+<a href="adamwillats@gmail.com"><i class="fas fa-envelope"></i> adamwillats@gmail.com </a>
+<a href="https://awillats.github.io/markdown-cv/"><i class="fas fa-home"></i> awillats.github.io</a>
+<a href="https://github.com/awillats"><i class="fab fa-github"></i> awillats</a>
+ <a href="linkedin.com/in/adam-willats"><i class="fab fa-linkedin"></i> linkedin.com/in.adam-willats</a>
 </div>
 
 ### Research interests
@@ -81,6 +83,20 @@ _Few lines of text about what i want to accomplish._ Something about improving t
 [**Machine Learning for Control Systems**](https://sites.gatech.edu/acds/), _Georgia Institute of Technology_
 
 <hr>
+## Teaching Experience
+
+### Teaching Assistant
+**Project-based bio transport**
+
+**Information Processing for Neural Systems**
+
+### Tutorials & Guest Lectures
+**Deep Neural Networks & Cortical Dynamics**
+
+**Generalized linear models**
+
+**Inkscape - Vector Graphics**
+
 
 ## Honors and Awards
 `2014 - 2018`
@@ -92,12 +108,14 @@ _Few lines of text about what i want to accomplish._ Something about improving t
 **President's Fellowship** - _Georgia Institute of Technology_
 - Through the continued support of the Georgia Tech Foundation, PFs are offered annually to a select number of highly qualified applicants who intend to pursue doctoral degrees. Fellowship recipients bring exemplary levels of scholarship and innovation to the academic departments who host their study and research.
 
+<hr>
+
 ## Publications
 
 ### Journal Articles
+<a href="https://orcid.org/0000-0002-0747-5186"><i class="ai ai-orcid"></i> ORCiD</a>
+<a href="https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a>
 
-[[ORCiD],](https://orcid.org/0000-0002-0747-5186)
-[[Google Scholar]](https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en)
 
 [@Fallah2020]
 [@Bolus2020]
