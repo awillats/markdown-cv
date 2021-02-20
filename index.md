@@ -7,8 +7,9 @@ title: Adam Willats's CV
 Graduate Research Assistant researching at the intersection of systems neuroscience and closed-loop control
 
 <div id="webaddress">
-<a href="tel:+1-812-371-0379"><i class="fas fa-phone"></i> +1 (812) 371 - 0379</a>
 <a href="adamwillats@gmail.com"><i class="fas fa-envelope"></i> adamwillats@gmail.com </a>
+<a href="tel:+1-812-371-0379"><i class="fas fa-phone"></i> +1 (812) 371 - 0379</a>
+<br>
 <a href="https://awillats.github.io/markdown-cv/"><i class="fas fa-home"></i> awillats.github.io</a>
 <a href="https://github.com/awillats"><i class="fab fa-github"></i> awillats</a>
  <a href="linkedin.com/in/adam-willats"><i class="fab fa-linkedin"></i> linkedin.com/in.adam-willats</a>
@@ -50,8 +51,10 @@ _Few lines of text about what i want to accomplish._ Something about improving t
 
 `May 2012-Aug 2012`
 **Undergraduate Researcher**, _Purdue University_ [e-Lab](https://e-lab.github.io/)
-- Worked with integrating artificial vision systems with mobile robotics platforms as part of the Purdue Summer Undergraduate Research Fellowship (SURF) program. [[video]](https://www.youtube.com/watch?v=gULR_IYgruU&ab_channel=EugenioCulurciello)
+
+Worked with integrating artificial vision systems with mobile robotics platforms as part of the Purdue Summer Undergraduate Research Fellowship (SURF) program.  <a href="https://www.youtube.com/watch?v=gULR_IYgruU&ab_channel=EugenioCulurciello"><i class="fab fa-youtube"></i></a>
 - Programmed in C++ and Lua using Robot Operating System (ROS) and torch7
+
 
 
 `Jun 2011-Aug 2011`
@@ -144,10 +147,13 @@ _Few lines of text about what i want to accomplish._ Something about improving t
 ### Patents
 
 `2020`
-System for Automated Analysis of Sleep and Wake States [[link]](https://emoryott.technologypublisher.com/technology/42436)
+System for Automated Analysis of Sleep and Wake States <a href="https://emoryott.technologypublisher.com/technology/42436"><i class="fas fa-file-alt"></i></a>
+
+Click on the @icn-camera icon to take a screen shot.
+
 
 `2020`
-Optical Pressure Treatment through Electrical Stimulation [[link]](https://patents.google.com/patent/US20190001134A1)
+Optical Pressure Treatment through Electrical Stimulation <a href="https://patents.google.com/patent/US20190001134A1"><i class="fas fa-file-alt"></i></a>
 
 ## Outreach & Mentoring
 `2020-2021`

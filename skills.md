@@ -16,3 +16,8 @@ LabVIEW
 Real-time
 Version control - GitHub
 Typesetting - LaTeX
+
+## Languages
+native: English
+intermediate: French
+beginner: Mandarin Chinese (~HSK1)
