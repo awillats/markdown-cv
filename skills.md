@@ -7,7 +7,7 @@ Real-time digital signal processing
 
 ## Tools & Technologies
 
-**Programming Languages:** MATLAB, Python, C++
+**Programming Languages:** MATLAB,Python , C++
 
 JavaScript
 LabVIEW

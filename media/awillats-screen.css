@@ -5,22 +5,33 @@
 
 :root{
 
+	/* pastel cactus*/
+	/*
+		--background-color:#e8fff4;
+		--text-bold: #053917	;
+		--text-color: #32804d;
+		--accent-color: #99439a;
+		--light-color: #edd05f;
+		*/
+
 /* starry night
 https://www.schemecolor.com/starry-starry-night.php */
+/*
 	--background-color:#0B1E38;
 	--text-bold: #E8E163	;
 	--text-color: #faf7c5;
 	--accent-color: #DB901C;
 	--light-color: #4888C8;
+*/
 
 /*solarized light*/
-/*
+
 	--background-color: #fdf6e3;
 	--text-bold: #002b36	;
 	--text-color: #586e75	;
 	--accent-color: #cb4b16;
 	--light-color: #b7c6c6;
-*/
+/**/
  /*traditional color palette*/
 /*
 	--background-color: #fff;
@@ -126,17 +137,16 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
+
 li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
 }
-
+/*
 li {
-	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	/*color: #777;*/
 }
 
 li ul {
@@ -145,7 +155,7 @@ li ul {
 	width: 100%;
 	margin-top: 0.25em;
 }
-
+*/
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;

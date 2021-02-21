@@ -7,8 +7,8 @@ title: Adam Willats's CV
 Graduate Research Assistant researching at the intersection of systems neuroscience and closed-loop control
 
 <div id="webaddress">
-<a href="adamwillats@gmail.com"><i class="fas fa-envelope"></i> adamwillats@gmail.com </a>
-<a href="tel:+1-812-371-0379"><i class="fas fa-phone"></i> +1 (812) 371 - 0379</a>
+<a href="mailto:adamwillats@gmail.com"><i class="fas fa-envelope"></i> adamwillats@gmail.com </a>
+<a href="tel:+1-812-371-0379"><i class="fas fa-phone"></i> +1 (812) 371-0379</a>
 <br>
 <a href="https://awillats.github.io/markdown-cv/"><i class="fas fa-home"></i> awillats.github.io</a>
 <a href="https://github.com/awillats"><i class="fab fa-github"></i> awillats</a>
@@ -19,7 +19,7 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 Modeling and analysis of neural systems, designing and characterizing control algorithms for the brain.
 
 ### Objective
-_Few lines of text about what i want to accomplish._ Something about improving therapies to treat the brain. Adding the the toolkit of science. Hoping to understand the brain through math, data, and perturbation.
+_[Still writing this part ...]_ Something about improving therapies to treat the brain. Adding the the toolkit of science. Hoping to understand the brain through math, data, and perturbation.
 
 
 <hr>
@@ -31,6 +31,7 @@ _Few lines of text about what i want to accomplish._ Something about improving t
 - Developed dynamical systems models of neural responses to optogenetic stimulation
 - Characterized algorithms for decoding and controlling brain states _in silico_
 - Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_
+[<i class="fab fa-github"></i>](https://github.com/stanley-rozell)
 
 `Jan 2014-Jun 2014`
 **Undergraduate Researcher**, _Purdue University, [Center for implantable Devices](https://engineering.purdue.edu/CID)_
@@ -65,12 +66,10 @@ Worked with integrating artificial vision systems with mobile robotics platforms
 ## Education
 
 `2014-2021`
-**Ph.D. in Biomedical Engineering**
--   _Georgia Institute of Technology & Emory University_
+**Ph.D. in Biomedical Engineering**,  _Georgia Institute of Technology & Emory University_
 
 `2010-2014`
-**B.Sc. in Biomedical Engineering**
--   _Purdue University_
+**B.Sc. in Biomedical Engineering**,  _Purdue University_
 
 ### Select Courses
 
@@ -89,17 +88,20 @@ Worked with integrating artificial vision systems with mobile robotics platforms
 ## Teaching Experience
 
 ### Teaching Assistant
-**Project-based bio transport**
+<!-- BMED 3310, Ross Ethier, Zhenglun Wei, Dennis Zhou-->
+`2015-2016`
+**Biotransport - project-based / hybrid course** - student review score 4.8/5
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
 
-**Information Processing for Neural Systems**
+`2021`
+**Information Processing Models in Neural Systems**
 
-### Tutorials & Guest Lectures
-**Deep Neural Networks & Cortical Dynamics**
+### Tutorials & <br/>Guest Lectures
+**Deep Neural Networks & Cortical Dynamics** - for Info. Processing
 
-**Generalized linear models**
+**Inkscape - Vector Graphics** [<i class="fas fa-images"></i>](https://docs.google.com/presentation/d/1fQnNB4HAlZ3ZQbJScwo2cUn_7Pjp7lIvAEDChXfeqoI/edit?usp=sharing)
 
-**Inkscape - Vector Graphics**
-
+<!-- **Generalized linear models** -->
 
 ## Honors and Awards
 `2014 - 2018`
@@ -130,27 +132,25 @@ Worked with integrating artificial vision systems with mobile robotics platforms
 
 `2020`
 **When are open- and closed-loop control necessary for causal inference in neural circuits?** _Neuromatch.io_
-- [[Abstract],](https://neuromatch.io/abstract/?submission_id=recAss5l8wdgBbnAm) [[Talk on YouTube]](https://youtu.be/oUKBDF2B3Sw)
+[<i class="fas fa-file-alt"></i>](https://neuromatch.io/abstract/?submission_id=recAss5l8wdgBbnAm)
+[<i class="fab fa-youtube"></i>](https://youtu.be/oUKBDF2B3Sw)
 
 `2018`
 **State-aware control of neural activity: design & analysis** - _COSYNE_
-- [[II-38 in program]](http://cosyne.org/cosyne18/Cosyne2018_program_book.pdf#page=161)
+ [II-38 in <i class="fas fa-file-alt"></i>](http://cosyne.org/cosyne18/Cosyne2018_program_book.pdf#page=161)
 
 `2016`
 **Closed loop optogenetic control of neural circuits: Tracking dynamic trajectories of neural activity** - _COSYNE_
-- [[II-42 in program]](http://cosyne.org/cosyne16/Cosyne2016_program_book.pdf)
+ [II-42 in <i class="fas fa-file-alt"></i>](http://cosyne.org/cosyne16/Cosyne2016_program_book.pdf)
 
 `2016`
 **Understanding optogenetic stimulation strategies: a study of opsin-neuron models and their spiking behaviors** - _Society for Neuroscience (SfN)_
-- [[Abstract]](https://www.abstractsonline.com/pp8/index.html#!/4071/presentation/1310)
+[<i class="fas fa-file-alt"></i>](https://www.abstractsonline.com/pp8/index.html#!/4071/presentation/1310)
 
 ### Patents
 
 `2020`
 System for Automated Analysis of Sleep and Wake States <a href="https://emoryott.technologypublisher.com/technology/42436"><i class="fas fa-file-alt"></i></a>
-
-Click on the @icn-camera icon to take a screen shot.
-
 
 `2020`
 Optical Pressure Treatment through Electrical Stimulation <a href="https://patents.google.com/patent/US20190001134A1"><i class="fas fa-file-alt"></i></a>
@@ -166,11 +166,12 @@ Integrating Science, Mathematics, and Computing [(CEISMC)](https://www.ceismc.ga
 - Mentored teacher in developing curriculum centered around digital signal processing
 
 `2016-2018`
-**Kids Interested In Technology, Engineering, and Science (KITES) festival**
+**Kids Interested In Technology, Engineering, and Science (KITES) festival** [[2018 <i class="fas fa-images"></i>]](https://stanley.gatech.edu/2018/05/stanley-lab-demonstrates-how-our-brain-controls-our-muscles-at-scott-elementary-science-and-technology-festival/)
+[[2016 <i class="fas fa-images"></i>]](https://stanley.gatech.edu/2016/06/outreach-event-the-childrens-school/)
 - built Arduino-based recording unit for real-time signal measurement and display based on [Backyard Brains EMG kit](https://backyardbrains.com/experiments/musclespikerbox)
 - helped develop activity plan for 4th grade students to plot and analyze data
-- [[2018 event]](https://stanley.gatech.edu/2018/05/stanley-lab-demonstrates-how-our-brain-controls-our-muscles-at-scott-elementary-science-and-technology-festival/)
-- [[2016 event]](https://stanley.gatech.edu/2016/06/outreach-event-the-childrens-school/)
+
+
 
 <!-- ### Footer
 Last updated: Feb 2021 -->
