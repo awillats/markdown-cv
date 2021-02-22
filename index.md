@@ -15,16 +15,21 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
  <a href="linkedin.com/in/adam-willats"><i class="fab fa-linkedin"></i> linkedin.com/in.adam-willats</a>
 </div>
 
-## Research interests
-Modeling and analysis of neural systems, designing and characterizing control algorithms for the brain.
-
+<!-- ## Research interests
+- Modeling and analysis of neural systems, designing and characterizing control algorithms for the brain. -->
 ## Objective
-_[Still writing this part ...]_ Something about improving therapies to treat the brain. Adding the the toolkit of science. Hoping to understand the brain through math, data, and perturbation.
+- _[Still writing this part ...]_ Something about improving therapies to treat the brain. Adding the the toolkit of science. Hoping to understand the brain through math, data, and perturbation.
 
 
 <hr>
 
 ## Experience
+
+**line one** lorem ipsum asdasd as asd  asd klsdjlk asdf sdfkjsdlkfj lkasd sdakf jsjsdlkafj lklka sdjflkjasd lkf  asdasd as asd  asd klsdjlk asdf sdfkjsdlkfj lkasd sdakf jsjsdlkafj lklka sdjflkjasd lkf
+
+line two
+
+line three
 
 `2014-present`
 **Graduate Research Assistant**, _Georgia Institute of Technology & Emory University, [SIPLAB](http://siplab.gatech.edu/)_
@@ -44,7 +49,7 @@ _[Still writing this part ...]_ Something about improving therapies to treat the
 - Streamlined collection and visualization of oscilloscope data by developing a MATLAB GUI
 - Researched security concerns associated with wireless-enabled implantable medical devices
 
-`Aug 2010 – May 2013`
+`Aug 2010–May 2013`
 **Graphic Designer - Interactive Info. visualization**, _The Purdue Exponent Newspaper_
 - Created illustrations, designs, and data visualizations
 - Created interactive online content
