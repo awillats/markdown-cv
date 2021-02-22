@@ -4,6 +4,14 @@
 */
 
 :root{
+	--pstart-left: 25%; /* left edge of the main body text default: 25%, 15% */
+	--heading2body-margin: 5%; /* gap between headings and body default: 5%, 3% */
+	--body-width: 55%; /*default 55%, 60%*/
+	--date-margin-from-page-edge: 5%; /* default : ??, 5%*/
+
+	--main-text-width: calc( var(--body-width)  + var(--pstart-left) + 5%%) ;
+	--date-right-edge: calc( 2*(var(--main-text-width)) - 200% + var(--date-margin-from-page-edge));
+	--heading-right-edge: calc( var(--pstart-left) - var(--heading2body-margin) );
 
 	/* pastel cactus*/
 	/*
@@ -25,21 +33,21 @@ https://www.schemecolor.com/starry-starry-night.php */
 */
 
 /*solarized light*/
-
+/*
 	--background-color: #fdf6e3;
 	--text-bold: #002b36	;
 	--text-color: #586e75	;
 	--accent-color: #cb4b16;
 	--light-color: #b7c6c6;
-/**/
+*/
  /*traditional color palette*/
-/*
+
 	--background-color: #fff;
 	--text-bold: #000;
 	--text-color: #111;
 	--accent-color: #09ab7d;
 	--light-color: #c0c0c0;
-*/
+/**/
 
 }
 
@@ -106,10 +114,10 @@ body {
 
 p {
 	position: relative;
-	left: 25%;
+	left: var(--pstart-left); /* starting point for*/
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: var(--body-width);
 }
 
 /* used for dates */
@@ -124,13 +132,13 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: var(--date-right-edge);
 }
 
 
 ul {
 	position: relative;
-	left: 25%;
+	left: var(--pstart-left);
 	width: 75%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
@@ -159,7 +167,7 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 80%;
+	width: 80%;<!--80%;-->
 }
 
 h1 {
@@ -168,7 +176,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: var(--pstart-left);
 }
 
 h1+p {
@@ -185,7 +193,7 @@ h2 {
 	position: relative;
 	top: 1.4em;
 	text-align: right;
-	width: 20%;
+	width: var(--heading-right-edge);
 }
 
 h3 {
@@ -194,7 +202,7 @@ h3 {
 	position: relative;
 	top: 1.7em;
 	text-align: right;
-	width: 20%;
+	width:var(--heading-right-edge);
 }
 
 /*<hr style="border: 1px dashed #C0C0C0;" />*/
@@ -218,7 +226,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	left: var(--pstart-left);
 	color: var(--accent-color);
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 80%;

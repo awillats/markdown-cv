@@ -4,59 +4,23 @@
 */
 
 :root{
-	--pstart-left: 15%; /* left edge of the main body text default: 25% */
-	--heading2body-margin: 1%; /* gap between headings and body default: 5% */
-	--body-width: 70%; /*default 55%*/
-	--date-margin-from-page-edge: 20%;
 
-/*	--main-text-width: calc(var(--heading2body-margin) + var(--body-width) );*/
-	/*--main-text-width: calc( var(--heading2body-margin) + var(--body-width) - var(--pstart-left));*/
-	/*--main-text-width: calc( var(--body-width) - var(--pstart-left));*/
-	/*--main-text-width: calc( var(--body-width)  - var(--pstart-left) + 7%); */ /*works for 25%*/
-	/*--main-text-width: calc( var(--body-width)  + var(--pstart-left)); /*works for 10%*/
-	--main-text-width: calc( var(--body-width) ) ;
-
-	/*--date-right-edge: calc( var(--date-margin-from-page-edge) - var(--main-text-width));*/
-	--date-right-edge: -45%; /*-110%;*/
-	--heading-right-edge: calc( var(--pstart-left) - var(--heading2body-margin) );
-
-
-	/* pastel cactus*/
-/*
-		--background-color:#e8fff4;
-		--text-bold: #053917	;
-		--text-color: #32804d;
-		--accent-color: #99439a;
-		--light-color: #edd05f;
-
-		*/
-
-/* starry night
-https://www.schemecolor.com/starry-starry-night.php */
-/*
-	--background-color:#0B1E38;
-	--text-bold: #E8E163	;
-	--text-color: #faf7c5;
-	--accent-color: #DB901C;
-	--light-color: #4888C8;
-*/
-
+		--heading2body-margin: 5%;
+		--pstart-left: 15%; /* left edge of the main body text */
+			--heading-right-edge: calc(var(--pstart-left)-var(--heading2body-margin)); /**/
 /*solarized light*/
-/*
 	--background-color: #fdf6e3;
 	--text-bold: #002b36	;
 	--text-color: #586e75	;
 	--accent-color: #cb4b16;
 	--light-color: #b7c6c6;
-*/
  /*traditional color palette*/
-
+/*
 	--background-color: #fff;
 	--text-bold: #000;
 	--text-color: #111;
 	--accent-color: #09ab7d;
-	--light-color: #e0e0e0;
-	/*
+	--light-color: #c0c0c0;
 */
 
 }
@@ -117,14 +81,14 @@ body {
 	font-family: Avenir,Verdana,sans-serif;
 	/*font-family: Helvetica,serif;*/
 	margin-top: 1em;
-	margin-left: 1em;
+	margin-left: .2em;
 	color: var(--text-color);
 	background-color: var(--background-color);
 }
 
 p {
 	position: relative;
-	left: var(--pstart-left); /* starting point for*/
+	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 55%;
@@ -142,29 +106,30 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: var(--date-right-edge);
+	right: -20%;
 }
 
 
 ul {
 	position: relative;
-	left: var(--pstart-left);
+	left: 25%;
 	width: 75%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
-
 li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
 }
-/*
+
 li {
+	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
+	/*color: #777;*/
 }
 
 li ul {
@@ -173,11 +138,11 @@ li ul {
 	width: 100%;
 	margin-top: 0.25em;
 }
-*/
+
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 80%;<!--80%;-->
+	width: 80%;
 }
 
 h1 {
@@ -186,7 +151,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: var(--pstart-left);
+	left: 25%;
 }
 
 h1+p {
@@ -203,7 +168,7 @@ h2 {
 	position: relative;
 	top: 1.4em;
 	text-align: right;
-	width: var(--heading-right-edge);
+	width: 20%;
 }
 
 h3 {
@@ -212,7 +177,7 @@ h3 {
 	position: relative;
 	top: 1.7em;
 	text-align: right;
-	width:var(--heading-right-edge);
+	width: 20%;
 }
 
 /*<hr style="border: 1px dashed #C0C0C0;" />*/
@@ -236,10 +201,10 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: var(--pstart-left);
+	left: 25%;
 	color: var(--accent-color);
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 100%;
 }
 
 #webaddress a {
