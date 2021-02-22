@@ -7,6 +7,8 @@
 	--pstart-left: 25%; /* left edge of the main body text default: 25%, 15% */
 	--heading2body-margin: 5%; /* gap between headings and body default: 5%, 3% */
 	--body-width: 55%; /*default 55%, 60%*/
+	--list-width: 80%; /*how wide list items are. should generally be similar to body width default 60%*/
+
 	--date-margin-from-page-edge: 5%; /* default : ??, 5%*/
 
 	--main-text-width: calc( var(--body-width)  + var(--pstart-left) + 5%%) ;
@@ -138,6 +140,13 @@ p code {
 
 ul {
 	position: relative;
+	/*uncomment to get circles at beginning of the list*/
+	list-style-type: circle;
+	margin-left: 0;
+	padding-left: 1.25em;
+		/*
+	*/
+
 	left: var(--pstart-left);
 	width: 75%;
 	margin-bottom: 1.5em;
@@ -145,16 +154,18 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-
+	/*
 li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
 }
-/*
+*/
+
 li {
 	padding-left: 1.25em;
-	text-indent: -1.25em;
+/*	text-indent: -1.25em;*/
+	width: var(--list-width)
 }
 
 li ul {
@@ -163,7 +174,14 @@ li ul {
 	width: 100%;
 	margin-top: 0.25em;
 }
-*/
+
+/* i: images, icons */
+/* not sure why this is necessary, but otherwise the icons get messed up by the text indent under li */
+i {
+	text-indent: 0em;
+}
+
+/**/
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;

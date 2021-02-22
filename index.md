@@ -15,10 +15,10 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
  <a href="linkedin.com/in/adam-willats"><i class="fab fa-linkedin"></i> linkedin.com/in.adam-willats</a>
 </div>
 
-### Research interests
+## Research interests
 Modeling and analysis of neural systems, designing and characterizing control algorithms for the brain.
 
-### Objective
+## Objective
 _[Still writing this part ...]_ Something about improving therapies to treat the brain. Adding the the toolkit of science. Hoping to understand the brain through math, data, and perturbation.
 
 
@@ -30,8 +30,7 @@ _[Still writing this part ...]_ Something about improving therapies to treat the
 **Graduate Research Assistant**, _Georgia Institute of Technology & Emory University, [SIPLAB](http://siplab.gatech.edu/)_
 - Developed dynamical systems models of neural responses to optogenetic stimulation
 - Characterized algorithms for decoding and controlling brain states _in silico_
-- Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_
-[<i class="fab fa-github"></i>](https://github.com/stanley-rozell)
+- Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_ [<i class="fab fa-github"></i>](https://github.com/stanley-rozell)
 
 `Jan 2014-Jun 2014`
 **Undergraduate Researcher**, _Purdue University, [Center for implantable Devices](https://engineering.purdue.edu/CID)_
