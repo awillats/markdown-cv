@@ -11,8 +11,10 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 <a href="tel:+1-812-371-0379"><i class="fas fa-phone"></i> +1 (812) 371-0379</a>
 <br>
 <a href="https://awillats.github.io/markdown-cv/"><i class="fas fa-home"></i> awillats.github.io</a>
-<a href="https://github.com/awillats"><i class="fab fa-github"></i> awillats</a>
- <a href="linkedin.com/in/adam-willats"><i class="fab fa-linkedin"></i> linkedin.com/in/adam-willats</a>
+<a href="https://github.com/awillats"><i class="fab fa-github"></i> github.com/awillats</a>
+<a href="https://github.com/awillats"><i class="fab fa-github"></i> github.gatech.edu/awillats3</a>
+<br>
+ <a href="https://linkedin.com/in/adam-willats"><i class="fab fa-linkedin"></i> linkedin.com/in/adam-willats</a>
 </div>
 
 <!-- ## Research interests
@@ -23,7 +25,7 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 
 <hr>
 
-## Experience
+## Professional & Research Experience
 
 `2014-present`
 **Graduate Research Assistant**, _Georgia Institute of Technology & Emory University, [SIPLAB](http://siplab.gatech.edu/)_
@@ -44,14 +46,15 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 - Researched security concerns associated with wireless-enabled implantable medical devices
 
 `Aug 2010–May 2013`
-**Graphic Designer - Interactive Info. visualization**, _The Purdue Exponent Newspaper_
-- Created illustrations, designs, and data visualizations
+**Graphic Designer - Interactive info visualization**, _The Purdue Exponent Newspaper_
+- Created illustrations, designs, and data visualizations [<i class="fas fa-images"></i>](https://www.purdueexponent.org/sports/article_24585a47-01b9-5a3b-835b-f4c0f2576cc7.html) [<i class="fas fa-images"></i>](https://www.purdueexponent.org/campus/article_19f1031d-0396-5b21-870a-c7f9f6ca91bc.html)
 - Created interactive online content
 
-`May 2012-Aug 2012`
-**Undergraduate Researcher**, _Purdue University_ [e-Lab](https://e-lab.github.io/)
 
-- Worked with integrating artificial vision systems with mobile robotics platforms as part of the Purdue Summer Undergraduate Research Fellowship (SURF) program  <a href="https://www.youtube.com/watch?v=gULR_IYgruU&ab_channel=EugenioCulurciello"><i class="fab fa-youtube"></i></a>
+`May 2012-Aug 2012`
+**Undergraduate Researcher**, _Purdue University_, [e-Lab](https://e-lab.github.io/)
+
+- Integrated computer vision systems with mobile robotics platforms as part of the Purdue Summer Undergraduate Research Fellowship (SURF) program  <a href="https://www.youtube.com/watch?v=gULR_IYgruU&ab_channel=EugenioCulurciello"><i class="fab fa-youtube"></i></a>
 - Programmed in C++ and Lua using Robot Operating System (ROS) and torch7
 
 
@@ -61,28 +64,6 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 - Repair, maintenance, and troubleshooting of the hospital's medical equipment
 - Developed preventative maintenance tests in Fluke Biomedical's Ansur Software
 
-## Education
-
-`2014-2021`
-**Ph.D. in Biomedical Engineering**,  _Georgia Institute of Technology & Emory University_
-
-`2010-2014`
-**B.Sc. in Biomedical Engineering**,  _Purdue University_
-
-### Select Courses
-
-`2017`
-[**Data science and scientific computing**](https://ideas.gatech.edu/ideas-summer-workshop-teaches-skills-scientific-computing-and-data-science), [_Institute for Data Engineering and Science (IDEaS)_](https://ideas.gatech.edu/) - Georgia Institute of Technology
-
-`2015`
-[**Mining and modeling neuroscience data**](https://crcns.org/course), _UC Berkeley_
-- The goal of this summer course is to help researchers find new exciting research areas and at the same time to strengthen quantitative expertise in the field of neuroscience.
-- The course integrated lectures from prominent researchers in computational neuroscience, with hands-on analysis of a variety of neuroscience data sets.
-
-`2015`
-[**Machine Learning for Control Systems**](https://sites.gatech.edu/acds/), _Georgia Institute of Technology_
-
-<hr>
 ## Teaching Experience
 
 ### Teaching Assistant
@@ -98,11 +79,35 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 - Prepared 3 lectures
 
 ### Tutorials & <br/>Guest Lectures
-**Deep Neural Networks & Cortical Dynamics** - for Info. Processing
+**Deep Neural Networks & Cortical Dynamics** - _for Info Processing course_
 
-**Inkscape - Vector Graphics** [<i class="fas fa-images"></i>](https://docs.google.com/presentation/d/1fQnNB4HAlZ3ZQbJScwo2cUn_7Pjp7lIvAEDChXfeqoI/edit?usp=sharing)
+**Inkscape - vector graphics tutorial** [<i class="fas fa-images"></i>](https://docs.google.com/presentation/d/1fQnNB4HAlZ3ZQbJScwo2cUn_7Pjp7lIvAEDChXfeqoI/edit?usp=sharing)
 
 <!-- **Generalized linear models** -->
+
+## Education
+
+`2014-2021`
+**Ph.D. in Biomedical Engineering**,  _Georgia Institute of Technology & Emory University_
+
+`2010-2014`
+**B.Sc. in Biomedical Engineering**,  _Purdue University_
+
+### Select Courses
+
+`2017`
+[**Data science and scientific computing**](https://ideas.gatech.edu/ideas-summer-workshop-teaches-skills-scientific-computing-and-data-science), [_Institute for Data Engineering and Science (IDEaS)_](https://ideas.gatech.edu/), Georgia Institute of Technology
+
+`2015`
+[**Mining and modeling neuroscience data**](https://crcns.org/course), _UC Berkeley_
+- The goal of this summer course is to help researchers find new exciting research areas and at the same time to strengthen quantitative expertise in the field of neuroscience.
+- The course integrated lectures from prominent researchers in computational neuroscience, with hands-on analysis of a variety of neuroscience data sets.
+
+`2015`
+[**Machine Learning for Control Systems**](https://sites.gatech.edu/acds/), _Georgia Institute of Technology_
+
+<hr>
+
 
 ## Honors & Awards
 `2014 - 2018`
@@ -123,16 +128,11 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 <a href="https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a>
 
 
-K. Fallah, **A. Willats**, N. Liu, C. Rozell, "**Learning sparse codes from compressed representations with biologically plausible local wiring constraints**", _Neural Information Processing Systems (NeurIPS)_, (2020) [<i class="fas fa-file-alt"></i>](https://www.biorxiv.org/content/10.1101/2020.10.23.352443v1)
-
-M. Bolus, **A. Willats**, C. Rozell, G. Stanley, "**State-space optimal feedback control of optogenetically driven neural activity**", _Journal of Neural Engineering_, (2020) [<i class="fas fa-file-alt"></i>](https://doi.org/10.1088%2F1741-2552%2Fabb89c)
-
-A. Cakmak, G. Poian, **A. Willats**, A. Haffar, R. Abdulbaki, Y. Ko, A. Shah, V. Vaccarino, D. Bliwise, C. Rozell, G. Clifford, "**An unbiased, efficient sleep–wake detection algorithm for a population with sleep disorders: change point decoder**", _Sleep_, (2020) [<i class="fas fa-file-alt"></i>](https://doi.org/10.1093%2Fsleep%2Fzsaa011)
-
-M. Bolus, **A. Willats**, C. Whitmire, C. Rozell, G. Stanley, "**Design strategies for dynamic closed-loop optogenetic neurocontrolin vivo**", _Journal of Neural Engineering_, (2018) [<i class="fas fa-file-alt"></i>](https://doi.org/10.1088%2F1741-2552%2Faaa506)
-
-E. Chow, H. Joshi, **A. Willats**, D. Thompson, K. Cotton, S. Nair, C. Warren, B. Tomayko, A. Adkins, A. Shen, M. Morris, B. Byerman, "**Commercial development of RF medical implantable devices**", _2013 IEEE MTT-S International Microwave Workshop Series on RF and Wireless Technologies for Biomedical and Healthcare Applications (IMWS-BIO)_, (2013) [<i class="fas fa-file-alt"></i>](https://doi.org/10.1109%2Fimws-bio.2013.6756251)
-
+[@Fallah2020]
+[@Bolus2020]
+[@Cakmak2020]
+[@Bolus2018]
+[@Chow2013]
 
 ### Conference Presentations
 
@@ -165,6 +165,7 @@ Optical Pressure Treatment through Electrical Stimulation <a href="https://paten
 `2020-2021`
 **Lab Training Guide**
 - Initiated and developed document for helping graduate students succeed at research
+<!-- example sections i contributed? -->
 
 `2018`
 **Georgia Intern Fellowship for Teachers (GIFT) program, Center for Education

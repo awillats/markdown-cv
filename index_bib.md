@@ -12,7 +12,7 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 <br>
 <a href="https://awillats.github.io/markdown-cv/"><i class="fas fa-home"></i> awillats.github.io</a>
 <a href="https://github.com/awillats"><i class="fab fa-github"></i> awillats</a>
- <a href="linkedin.com/in/adam-willats"><i class="fab fa-linkedin"></i> linkedin.com/in/adam-willats</a>
+<a href="https://linkedin.com/in/adam-willats"><i class="fab fa-linkedin"></i> linkedin.com/in/adam-willats</a>
 </div>
 
 <!-- ## Research interests
@@ -123,11 +123,16 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 <a href="https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a>
 
 
-[@Fallah2020]
-[@Bolus2020]
-[@Cakmak2020]
-[@Bolus2018]
-[@Chow2013]
+K. Fallah, **A. Willats**, N. Liu, C. Rozell, "**Learning sparse codes from compressed representations with biologically plausible local wiring constraints**", _Neural Information Processing Systems (NeurIPS)_, (2020) [<i class="fas fa-file-alt"></i>](https://www.biorxiv.org/content/10.1101/2020.10.23.352443v1)
+
+M. Bolus, **A. Willats**, C. Rozell, G. Stanley, "**State-space optimal feedback control of optogenetically driven neural activity**", _Journal of Neural Engineering_, (2020) [<i class="fas fa-file-alt"></i>](https://doi.org/10.1088%2F1741-2552%2Fabb89c)
+
+A. Cakmak, G. Poian, **A. Willats**, A. Haffar, R. Abdulbaki, Y. Ko, A. Shah, V. Vaccarino, D. Bliwise, C. Rozell, G. Clifford, "**An unbiased, efficient sleep–wake detection algorithm for a population with sleep disorders: change point decoder**", _Sleep_, (2020) [<i class="fas fa-file-alt"></i>](https://doi.org/10.1093%2Fsleep%2Fzsaa011)
+
+M. Bolus, **A. Willats**, C. Whitmire, C. Rozell, G. Stanley, "**Design strategies for dynamic closed-loop optogenetic neurocontrolin vivo**", _Journal of Neural Engineering_, (2018) [<i class="fas fa-file-alt"></i>](https://doi.org/10.1088%2F1741-2552%2Faaa506)
+
+E. Chow, H. Joshi, **A. Willats**, D. Thompson, K. Cotton, S. Nair, C. Warren, B. Tomayko, A. Adkins, A. Shen, M. Morris, B. Byerman, "**Commercial development of RF medical implantable devices**", _2013 IEEE MTT-S International Microwave Workshop Series on RF and Wireless Technologies for Biomedical and Healthcare Applications (IMWS-BIO)_, (2013) [<i class="fas fa-file-alt"></i>](https://doi.org/10.1109%2Fimws-bio.2013.6756251)
+
 
 ### Conference Presentations
 

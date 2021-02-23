@@ -4,6 +4,7 @@ Mathematical modeling - network dynamical systems models of neural systems
 Data visualization
 Control systems design
 Real-time digital signal processing
+High-performance parallel computing - qsub
 
 ## Tools & Technologies
 
@@ -13,7 +14,7 @@ JavaScript
 LabVIEW
 
 ### Software
-Real-time
+Real-time data acquisition - RTXI, TDT systems
 Version control - GitHub
 Typesetting - LaTeX
 
