@@ -25,12 +25,6 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 
 ## Experience
 
-**line one** lorem ipsum asdasd as asd  asd klsdjlk asdf sdfkjsdlkfj lkasd sdakf jsjsdlkafj lklka sdjflkjasd lkf  asdasd as asd  asd klsdjlk asdf sdfkjsdlkfj lkasd sdakf jsjsdlkafj lklka sdjflkjasd lkf
-
-line two
-
-line three
-
 `2014-present`
 **Graduate Research Assistant**, _Georgia Institute of Technology & Emory University, [SIPLAB](http://siplab.gatech.edu/)_
 - Developed dynamical systems models of neural responses to optogenetic stimulation
@@ -57,7 +51,7 @@ line three
 `May 2012-Aug 2012`
 **Undergraduate Researcher**, _Purdue University_ [e-Lab](https://e-lab.github.io/)
 
-Worked with integrating artificial vision systems with mobile robotics platforms as part of the Purdue Summer Undergraduate Research Fellowship (SURF) program.  <a href="https://www.youtube.com/watch?v=gULR_IYgruU&ab_channel=EugenioCulurciello"><i class="fab fa-youtube"></i></a>
+- Worked with integrating artificial vision systems with mobile robotics platforms as part of the Purdue Summer Undergraduate Research Fellowship (SURF) program.  <a href="https://www.youtube.com/watch?v=gULR_IYgruU&ab_channel=EugenioCulurciello"><i class="fab fa-youtube"></i></a>
 - Programmed in C++ and Lua using Robot Operating System (ROS) and torch7
 
 

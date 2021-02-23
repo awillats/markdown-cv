@@ -11,10 +11,11 @@
 	--list-width: 90%; /*77% also works well, blockier */
 	/*how wide list items are. should generally be similar to body width default 60%*/
 	--date-margin-from-page-edge: 5%; /* default : ??, 5%*/
-	--between-paragraph-space: 1.5em; /*.5em*/
+	--between-paragraph-space: 1em; /*.5em*/
 	--sub-contact-space: 1em;
 
-	--default-line-space: 1.5em; /*1.5em*/
+	--overall-font-size: 14px; /*13px;*/
+	--default-line-space: 1.3em; /*1.5em*/
 
 /*
 	--pstart-left: 15%;
@@ -27,14 +28,19 @@
 */
 
 /* spacious version, for web layout */
-/*
+
 	--pstart-left: 25%;
 	--heading2body-margin: 5%;
 	--body-width: 55%;
-	--list-width: 80%;
+	--list-width: 75%;
 	--date-margin-from-page-edge: 5%;
 	--between-paragraph-space: 1.5em;
 	--sub-contact-space: 2em;
+
+	--overall-font-size: 16px; /*13px;*/
+	--default-line-space: 1.5em; /*1.5em*/
+
+
 		/*
 
 */
@@ -65,15 +71,16 @@ https://www.schemecolor.com/starry-starry-night.php */
 */
 
 /*solarized light*/
-/*
+
 	--background-color: #fdf6e3;
 	--text-bold: #002b36	;
 	--text-color: #586e75	;
 	--accent-color: #cb4b16;
 	--light-color: #b7c6c6;
+	/*
 */
  /*traditional color palette*/
-
+/*
 	--background-color: #fff;
 	--text-bold: #000;
 	--text-color: #111;
@@ -81,7 +88,7 @@ https://www.schemecolor.com/starry-starry-night.php */
 	--light-color: #c0c0c0;
 	--light-color: #cdcccc;
 
-/**/
+*/
 
 }
 
@@ -101,7 +108,7 @@ time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 20px;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -135,7 +142,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 100%;
+	font-size: var(--overall-font-size);
 	line-height: var(--default-line-space);/**/
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
@@ -156,8 +163,9 @@ p {
 /* these two lines prevent "double spacing" between paragraphs*/
 /* https://www.thesitewizard.com/css/change-space-between-paragraphs.shtml */
   margin-top: 0 ;
-  margin-bottom: 0; /*this should actually set space between paragraphs above line height */
+  margin-bottom: var(--between-paragraph-space);
 }
+
 
 /* used for dates */
 code {
@@ -187,13 +195,15 @@ ul {
 
 	left: var(--pstart-left);
 	width: 75%;
-	margin-bottom: var(--between-paragraph-space); /*0.5em for condensed, 1.5 for spacious */
-	margin-top: 0em;/*-0.5em;/**/ /*-0.5em for condensed, 1.5 for spacious */
-	/* if you make this negative, the first list item will be shifted up ...*/
+}
+
+/* for lists after paragraph breaks, undo paragraph spacing*/
+p + ul {
+	margin-top: calc(-1 * var(--between-paragraph-space));
+	margin-bottom: var(--between-paragraph-space);
 }
 
 /*uncomment to get dashes in the list*/
-
 li:before {
 	content: "-";
 	position: relative;
@@ -205,7 +215,7 @@ li:before {
 li {
 /*	padding-left: 1.25em;*/
 /*	text-indent: -1.25em;*/
-	padding-left: 0.5em;
+	padding-left:0.3em;/* 0.5em;*/
 	width: var(--list-width);
 	/*margin-bottom: 0.5em; /* this is a hack.. for some reason if you don't include this,...
 	you get extra space between line above and start of list*/
@@ -273,10 +283,7 @@ h3 {
 
 }
 
-p + p {
-	color: #ff0000;
-	margin-top: 1em; /*var(--default-line-space);*/
-}
+
 
 /*<hr style="border: 1px dashed #C0C0C0;" />*/
 hr {
