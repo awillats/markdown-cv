@@ -15,8 +15,10 @@ LabVIEW
 
 ### Software
 Real-time data acquisition - RTXI, TDT systems
-Version control - GitHub
+Version control - GitHub (commits, pull/merge requests)
 Typesetting - LaTeX
+
+_unit-tests in software design_
 
 ## Languages
 native: English

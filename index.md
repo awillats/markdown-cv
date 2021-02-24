@@ -32,7 +32,7 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 - Developed dynamical systems models of neural responses to optogenetic stimulation
 - Characterized algorithms for decoding and controlling brain states _in silico_
 - Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_ [<i class="fab fa-github"></i>](https://github.com/stanley-rozell)
-
+- **[highlight Neuro@GT and ML@GT communities]**
 `Jan 2014-Jun 2014`
 **Undergraduate Researcher**, _Purdue University, [Center for implantable Devices](https://engineering.purdue.edu/CID)_
 - Developed technology and signal processing algorithms for a novel approach to control intraocular pressure (IOP) to treat glaucoma
