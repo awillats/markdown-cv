@@ -144,14 +144,24 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 `2018`
 **State-aware control of neural activity: design & analysis** - _COSYNE_
  [II-38 in <i class="fas fa-file-alt"></i>](http://cosyne.org/cosyne18/Cosyne2018_program_book.pdf#page=161)
+ <!--AA Willats, MF Bolus, CJ Whitmire, GB Stanley, CJ Rozell. State-aware control of neural activity: design & analysis, Cosyne 2018.-->
+
+<!-- Bolus MF, Willats AA, Whitmire CJ, Rozell CJ, Stanley GB. Closed loop optogenetic control of thalamocortical activity, Society for Neuroscience Meeting, 2017.-->
 
 `2016`
 **Closed loop optogenetic control of neural circuits: Tracking dynamic trajectories of neural activity** - _COSYNE_
  [II-42 in <i class="fas fa-file-alt"></i>](http://cosyne.org/cosyne16/Cosyne2016_program_book.pdf)
+<!-- Bolus M, Willats A, Whitmire CJ, Costello Z, Egerstedt M, Rozell CJ, Stanley GB. Closed loop optogenetic control of neural circuits: Tracking dynamic trajectories of neural activity. Cosyne 2016. -->
+
 
 `2016`
 **Understanding optogenetic stimulation strategies: a study of opsin-neuron models and their spiking behaviors** - _Society for Neuroscience (SfN)_
 [<i class="fas fa-file-alt"></i>](https://www.abstractsonline.com/pp8/index.html#!/4071/presentation/1310)
+
+
+<!-- Willats, A, Bolus, M, Whitmire, C, Rozell, C, Stanley, G. Closing the loop around firing rate: Following dynamic trajectories. Society for Neuroscience Meeting, 2015. -->
+<!-- A. Willats, T. N. Ivanova, A. A. Prinz and R. C. Liu, Modeling the Kinetics of a Memory-Associated Immediate Early Gene’s Compartmental Expression After Sensory Experience, American Physical Society March Meeting, San Antonio, TX, March 2-6, 2015.  -->
+
 
 ### Patents
 

@@ -20,6 +20,13 @@ Typesetting - LaTeX
 
 _unit-tests in software design_
 
+### Organizational tools
+
+ Team communication - Slack
+ Project planning - Trello
+ Notes / organization - Workflowy
+
+
 ## Languages
 native: English
 intermediate: French

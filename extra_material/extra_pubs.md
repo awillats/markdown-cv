@@ -26,3 +26,15 @@ Following dynamic trajectories. In Society for Neuroscience (SfN) Annual Meeting
 `2015`
 **Modeling the Kinetics of a Memory-Associated Immediate Early Gene's Compartmental Expression After Sensory Experience** - American Physics Society (APS)
 [[link]](https://ui.adsabs.harvard.edu/abs/2015APS..MAR.P1105W/abstract)
+
+
+## Conference attendance
+
+Neuromatch in Oct 2020
+Neuromatch in May 2020
+
+Intelligent Interactions with the brain (I2B) Workshop [[link]](https://ibb.gatech.edu/news/new-levels-brain-understanding)
+2019
+- epilepsy
+- alzheimer's disease
+- translational neuroengineering
