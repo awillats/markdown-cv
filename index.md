@@ -4,7 +4,9 @@ title: Adam Willats's CV
 ---
 
 # Adam Willats
-Graduate Research Assistant researching at the intersection of systems neuroscience and closed-loop control
+<!--Graduate Research Assistant researching at the intersection of systems neuroscience and closed-loop control-->
+
+Researcher completing a Ph.D in Biomedical Engineering focused at the intersection of neuroscience and closed-loop control.
 
 <div id="webaddress">
 <a href="mailto:adamwillats@gmail.com"><i class="fas fa-envelope"></i> adamwillats@gmail.com </a>
@@ -19,9 +21,15 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 
 <!-- ## Research interests
 - Modeling and analysis of neural systems, designing and characterizing control algorithms for the brain. -->
-## Objective
-- _[Still writing this part ...]_ Something about improving therapies to treat the brain. Adding the the toolkit of science. Hoping to understand the brain through math, data, and perturbation.
 
+## (Industry - R&D) Objective
+
+**Data scientist** experienced in analysis and visualization of complex neural data. Successful **engineer and innovator of responsive technologies** for understanding and regulating the nervous system. Looking to expand the efficacy of neurostimulation therapies through design and development of closed-loop algorithms and individualized mathematical models of the nervous system. Eager to apply expertise within a **collaborative research and development team** to improve quality of life for those experiencing neurological disorders.
+
+## (Academic) Objective
+**Computational systems neuroscientist** with experience expanding the toolkit for understanding the brain using data-driven mathematical models of neural dynamics, and responsive closed-loop perturbation of neural circuits.
+**Highly motivated teacher** committed to developing interactive and intuitive ways to communicate concepts to students.
+Seeking a position which balances **collaborative research** in understanding and treating the brain through closed-loop neuroengineering with additional impact through **educating students** in systems neuroscience and control theory.
 
 <hr>
 
@@ -32,7 +40,8 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 - Developed dynamical systems models of neural responses to optogenetic stimulation
 - Characterized algorithms for decoding and controlling brain states _in silico_
 - Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_ [<i class="fab fa-github"></i>](https://github.com/stanley-rozell)
-- **[highlight Neuro@GT and ML@GT communities]**
+- Actively participated in both [neuro-engineering](https://neuro.gatech.edu/) and [machine learning](https://ml.gatech.edu/) communities
+
 `Jan 2014-Jun 2014`
 **Undergraduate Researcher**, _Purdue University, [Center for implantable Devices](https://engineering.purdue.edu/CID)_
 - Developed technology and signal processing algorithms for a novel approach to control intraocular pressure (IOP) to treat glaucoma
@@ -76,10 +85,11 @@ Graduate Research Assistant researching at the intersection of systems neuroscie
 `2021`
 **Information Processing Models in Neural Systems**
 - Graduate Teaching Fellow
-- Prepared 3 lectures
+- 3 lectures _(in preparation)_
 
 ### Tutorials & <br/>Guest Lectures
 **Deep Neural Networks & Cortical Dynamics** - _for Info Processing course_
+- _(in preparation)_
 
 **Inkscape - vector graphics tutorial** [<i class="fas fa-images"></i>](https://docs.google.com/presentation/d/1fQnNB4HAlZ3ZQbJScwo2cUn_7Pjp7lIvAEDChXfeqoI/edit?usp=sharing)
 

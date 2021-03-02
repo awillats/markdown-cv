@@ -29,6 +29,7 @@
 
 /* spacious version, for web layout */
 
+		/*
 	--pstart-left: 25%;
 	--heading2body-margin: 5%;
 	--body-width: 55%;
@@ -37,11 +38,8 @@
 	--between-paragraph-space: 1.5em;
 	--sub-contact-space: 2em;
 
-	--overall-font-size: 16px; /*13px;*/
-	--default-line-space: 1.5em; /*1.5em*/
-
-
-		/*
+	--overall-font-size: 16px; <!--13px;-->
+	--default-line-space: 1.5em; <!--1.5em-->
 
 */
 
