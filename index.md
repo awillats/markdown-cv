@@ -22,11 +22,7 @@ Researcher completing a Ph.D in Biomedical Engineering focused at the intersecti
 <!-- ## Research interests
 - Modeling and analysis of neural systems, designing and characterizing control algorithms for the brain. -->
 
-## (Industry) Objective
-
-**Data scientist** experienced in analysis and visualization of complex neural data. Successful **engineer and innovator of responsive technologies** for understanding and regulating the nervous system. Looking to expand the efficacy of neurostimulation therapies through design and development of closed-loop algorithms and individualized data-driven models of the nervous system. Eager to apply expertise within a **collaborative research and development team** to improve quality of life for those experiencing neurological disorders.
-
-## (Academic) Objective
+## Objective
 **Computational systems neuroscientist** with experience expanding the toolkit for understanding the brain using data-driven mathematical models of neural dynamics, and responsive closed-loop perturbation of neural circuits.
 **Highly motivated teacher** committed to developing interactive and intuitive ways to communicate concepts to students.
 Seeking a position which balances **collaborative research** in understanding and treating the brain through closed-loop neuroengineering with additional impact through **educating students** in systems neuroscience and control theory.
@@ -54,24 +50,14 @@ Seeking a position which balances **collaborative research** in understanding an
 - Streamlined collection and visualization of oscilloscope data by developing a MATLAB GUI
 - Researched security concerns associated with wireless-enabled implantable medical devices
 
-`Aug 2010–May 2013`
-**Graphic Designer - Interactive info visualization**, _The Purdue Exponent Newspaper_
-- Created illustrations, designs, and data visualizations [<i class="fas fa-images"></i>](https://www.purdueexponent.org/sports/article_24585a47-01b9-5a3b-835b-f4c0f2576cc7.html) [<i class="fas fa-images"></i>](https://www.purdueexponent.org/campus/article_19f1031d-0396-5b21-870a-c7f9f6ca91bc.html)
-- Created interactive online content
-
+<!-- cut graphic design -->
 
 `May 2012-Aug 2012`
 **Undergraduate Researcher**, _Purdue University_, [e-Lab](https://e-lab.github.io/)
-
 - Integrated computer vision systems with mobile robotics platforms as part of the Purdue Summer Undergraduate Research Fellowship (SURF) program  <a href="https://www.youtube.com/watch?v=gULR_IYgruU&ab_channel=EugenioCulurciello"><i class="fab fa-youtube"></i></a>
 - Programmed in C++ and Lua using Robot Operating System (ROS) and torch7
 
-
-
-`Jun 2011-Aug 2011`
-**Clinical Engineering Intern**, _Columbus Regional Hospital, Columbus, IN_
-- Repair, maintenance, and troubleshooting of the hospital's medical equipment
-- Developed preventative maintenance tests in Fluke Biomedical's Ansur Software
+<!--cut clinical engineering-->
 
 ## Teaching Experience
 
@@ -117,7 +103,6 @@ Seeking a position which balances **collaborative research** in understanding an
 [**Machine Learning for Control Systems**](https://sites.gatech.edu/acds/), _Georgia Institute of Technology_
 
 <hr>
-
 
 ## Honors & Awards
 `2014 - 2018`
