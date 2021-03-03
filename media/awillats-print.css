@@ -328,6 +328,11 @@ strong {
 	color: var(--text-bold);
 }
 
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
 #address {
 	display: none;
 }

@@ -88,9 +88,9 @@ Seeking a position which balances **collaborative research** in understanding an
 
 ## Honors & Awards
 `2014 - 2018`
-[**Computational Neuroscience Training Grant**](http://nec.gatech.edu/t32-training-program) - _NIH, Emory University, Georgia Institute of Technology_
+[**Computational Neuroscience Training Grant Fellowship**](http://nec.gatech.edu/t32-training-program) - _NIH, Emory University, Georgia Institute of Technology_
 - This program supports cross-institute and interdisciplinary training in computational neuroscience, machine learning, and neural engineering.
-- As a trainee in this program I participated in research across multiple laboratories, led journal clubs, organized retreats, and attended training at UC Berkeley.
+- As a fellow in this program I conducted research across multiple laboratories, led journal clubs, organized retreats, and attended training at UC Berkeley.
 
 `2015`
 **President's Fellowship** - _Georgia Institute of Technology_
@@ -99,12 +99,13 @@ Seeking a position which balances **collaborative research** in understanding an
 
 ## Publications
 
-### Journal Articles
+### Reviewed Publications <!--Reviewed articles? Reviewed papers? reviewed journal articles + neurips-->
 <a href="https://orcid.org/0000-0002-0747-5186"><i class="ai ai-orcid"></i> ORCiD</a>
 <a href="https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+_<sup>*</sup>indicates co first-author_
 
 
-K. Fallah, **A. Willats**, N. Liu, C. Rozell, "**Learning sparse codes from compressed representations with biologically plausible local wiring constraints**", _Neural Information Processing Systems (NeurIPS)_, (2020) [<i class="fas fa-file-alt"></i>](https://www.biorxiv.org/content/10.1101/2020.10.23.352443v1)
+K. Fallah<sup>*</sup>, **A. Willats<sup>*</sup>**, N. Liu, C. Rozell, "**Learning sparse codes from compressed representations with biologically plausible local wiring constraints**", _Neural Information Processing Systems (NeurIPS)_, (2020) [<i class="fas fa-file-alt"></i>](https://www.biorxiv.org/content/10.1101/2020.10.23.352443v1)
 
 M. Bolus, **A. Willats**, C. Rozell, G. Stanley, "**State-space optimal feedback control of optogenetically driven neural activity**", _Journal of Neural Engineering_, (2020) [<i class="fas fa-file-alt"></i>](https://doi.org/10.1088%2F1741-2552%2Fabb89c)
 

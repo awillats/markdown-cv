@@ -50,32 +50,34 @@
 	/*--default-line-space: 1.5em;*/
 
 	/* pastel cactus*/
-	/*
+
 		--background-color:#e8fff4;
 		--text-bold: #053917	;
 		--text-color: #32804d;
 		--accent-color: #99439a;
 		--light-color: #edd05f;
+			/*
 		*/
 
 /* starry night
 https://www.schemecolor.com/starry-starry-night.php */
-/*
+	/*
 	--background-color:#0B1E38;
 	--text-bold: #E8E163	;
 	--text-color: #faf7c5;
 	--accent-color: #DB901C;
 	--light-color: #4888C8;
+
 */
 
 /*solarized light -  good for web*/
-
+	/*
 	--background-color: #fdf6e3;
 	--text-bold: #002b36	;
 	--text-color: #586e75	;
 	--accent-color: #cb4b16;
 	--light-color: #b7c6c6;
-	/*
+
 */
  /*traditional color palette*/
 /*
@@ -324,6 +326,11 @@ em {
 strong {
 	font-weight: bold;
 	color: var(--text-bold);
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
 }
 
 #address {
