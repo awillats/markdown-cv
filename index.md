@@ -22,9 +22,9 @@ Researcher completing a Ph.D in Biomedical Engineering focused at the intersecti
 <!-- ## Research interests
 - Modeling and analysis of neural systems, designing and characterizing control algorithms for the brain. -->
 
-## (Industry - R&D) Objective
+## (Industry) Objective
 
-**Data scientist** experienced in analysis and visualization of complex neural data. Successful **engineer and innovator of responsive technologies** for understanding and regulating the nervous system. Looking to expand the efficacy of neurostimulation therapies through design and development of closed-loop algorithms and individualized mathematical models of the nervous system. Eager to apply expertise within a **collaborative research and development team** to improve quality of life for those experiencing neurological disorders.
+**Data scientist** experienced in analysis and visualization of complex neural data. Successful **engineer and innovator of responsive technologies** for understanding and regulating the nervous system. Looking to expand the efficacy of neurostimulation therapies through design and development of closed-loop algorithms and individualized data-driven models of the nervous system. Eager to apply expertise within a **collaborative research and development team** to improve quality of life for those experiencing neurological disorders.
 
 ## (Academic) Objective
 **Computational systems neuroscientist** with experience expanding the toolkit for understanding the brain using data-driven mathematical models of neural dynamics, and responsive closed-loop perturbation of neural circuits.
@@ -176,10 +176,12 @@ Seeking a position which balances **collaborative research** in understanding an
 ### Patents
 
 `2020`
-System for Automated Analysis of Sleep and Wake States <a href="https://emoryott.technologypublisher.com/technology/42436"><i class="fas fa-file-alt"></i></a>
+**System for Automated Analysis of Sleep and Wake States** <a href="https://emoryott.technologypublisher.com/technology/42436"><i class="fas fa-file-alt"></i></a>
+- Gari Clifford, Ayse Cakmak, **Adam Willats**, Christopher Rozell.
 
 `2020`
-Optical Pressure Treatment through Electrical Stimulation <a href="https://patents.google.com/patent/US20190001134A1"><i class="fas fa-file-alt"></i></a>
+**Optical Pressure Treatment through Electrical Stimulation** <a href="https://patents.google.com/patent/US20190001134A1"><i class="fas fa-file-alt"></i></a>
+- Pedro Irazoqui, Simon John, Alex Kokini, **Adam Willats**, Alexander Chelminski, Matt Matuscak, Gabriel Simon
 
 ## Outreach & Mentoring
 `2020-2021`
@@ -201,4 +203,4 @@ Integrating Science, Mathematics, and Computing [(CEISMC)](https://www.ceismc.ga
 
 
 <!-- ### Footer
-Last updated: Feb 2021 -->
+Last updated: March 2021 -->

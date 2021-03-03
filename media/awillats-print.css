@@ -4,22 +4,50 @@
 */
 
 :root{
-	--pstart-left: 15%; /* left edge of the main body text default: 25% */
-	--heading2body-margin: 1%; /* gap between headings and body default: 5% */
-	--body-width: 70%; /*default 55%*/
-	--date-margin-from-page-edge: 20%;
+/* condensed parameters, for pdf printing */
+	--pstart-left: 15%; /* left edge of the main body text default: 25%, 15% */
+	--heading2body-margin: 3%; /* gap between headings and body default: 5%, 3% */
+	--body-width: 65%; /*default 55%, 65%*/
+	--list-width: 90%; /*77% also works well, blockier */
+	/*how wide list items are. should generally be similar to body width default 60%*/
+	--date-margin-from-page-edge: 5%; /* default : ??, 5%*/
+	--between-paragraph-space: 1em; /*.5em*/
+	--sub-contact-space: 1em;
 
-/*	--main-text-width: calc(var(--heading2body-margin) + var(--body-width) );*/
-	/*--main-text-width: calc( var(--heading2body-margin) + var(--body-width) - var(--pstart-left));*/
-	/*--main-text-width: calc( var(--body-width) - var(--pstart-left));*/
-	/*--main-text-width: calc( var(--body-width)  - var(--pstart-left) + 7%); */ /*works for 25%*/
-	/*--main-text-width: calc( var(--body-width)  + var(--pstart-left)); /*works for 10%*/
-	--main-text-width: calc( var(--body-width) ) ;
+	--overall-font-size: 14px; /*13px;*/
+	--default-line-space: 1.3em; /*1.5em*/
 
-	/*--date-right-edge: calc( var(--date-margin-from-page-edge) - var(--main-text-width));*/
-	--date-right-edge: -45%; /*-110%;*/
+/*
+	--pstart-left: 15%;
+	--heading2body-margin: 3%;
+	--body-width: 65%;
+	--list-width: 100%;
+	--date-margin-from-page-edge: 5%;
+	--between-paragraph-space: 0.5em;
+	--sub-contact-space: 1em;
+*/
+
+/* spacious version, for web layout */
+
+/*
+	--pstart-left: 25%;
+	--heading2body-margin: 5%;
+	--body-width: 55%;
+	--list-width: 75%;
+	--date-margin-from-page-edge: 5%;
+	--between-paragraph-space: 1.5em;
+	--sub-contact-space: 2em;
+
+	--overall-font-size: 16px;
+	--default-line-space: 1.5em;
+
+*/
+
+	--main-text-width: calc( var(--body-width)  + var(--pstart-left) + 5%%) ;
+	--date-right-edge: calc( 2*(var(--main-text-width)) - 200% + var(--date-margin-from-page-edge));
 	--heading-right-edge: calc( var(--pstart-left) - var(--heading2body-margin) );
 
+	/*--default-line-space: 1.5em;*/
 
 	/* pastel cactus*/
 /*
@@ -42,12 +70,13 @@ https://www.schemecolor.com/starry-starry-night.php */
 */
 
 /*solarized light*/
-/*
+	/*
 	--background-color: #fdf6e3;
 	--text-bold: #002b36	;
 	--text-color: #586e75	;
 	--accent-color: #cb4b16;
 	--light-color: #b7c6c6;
+
 */
  /*traditional color palette*/
 
@@ -55,8 +84,10 @@ https://www.schemecolor.com/starry-starry-night.php */
 	--text-bold: #000;
 	--text-color: #111;
 	--accent-color: #09ab7d;
-	--light-color: #e0e0e0;
+	--light-color: #c0c0c0;
+	--light-color: #cdcccc;
 	/*
+
 */
 
 }
@@ -77,7 +108,7 @@ time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 20px;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -87,7 +118,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+	line-height: 99em; /* def 2*/
 }
 ol, ul {
 	list-style: none;
@@ -111,8 +142,8 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 100%;
-	line-height: 1.5em;
+	font-size: var(--overall-font-size);
+	line-height: var(--default-line-space);/**/
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	/*font-family: Helvetica,serif;*/
@@ -122,18 +153,24 @@ body {
 	background-color: var(--background-color);
 }
 
+
 p {
 	position: relative;
 	left: var(--pstart-left); /* starting point for*/
-	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: var(--body-width);
+
+/* these two lines prevent "double spacing" between paragraphs*/
+/* https://www.thesitewizard.com/css/change-space-between-paragraphs.shtml */
+  margin-top: 0 ;
+  margin-bottom: var(--between-paragraph-space);
 }
+
 
 /* used for dates */
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 70%; /*90%*/
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: var(--light-color);
@@ -148,32 +185,56 @@ p code {
 
 ul {
 	position: relative;
+	/*uncomment to get circles at beginning of the list*/
+	/*
+	list-style-type: '-'; circle;
+	margin-left: 0;
+	padding-left: 1.0em;
+	*/
+	margin-left: 0;
+
 	left: var(--pstart-left);
 	width: 75%;
-	margin-bottom: 1.5em;
-	margin-top: -0.5em;
+}
+
+/* for lists after paragraph breaks, undo paragraph spacing*/
+p + ul {
+	margin-top: calc(-1 * var(--between-paragraph-space));
+	margin-bottom: var(--between-paragraph-space);
 }
 
 /*uncomment to get dashes in the list*/
-
 li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
 }
-/*
+	/**/
+
+/* each item in list */
 li {
-	padding-left: 1.25em;
-	text-indent: -1.25em;
+/*	padding-left: 1.25em;*/
+/*	text-indent: -1.25em;*/
+	padding-left:0.3em;/* 0.5em;*/
+	width: var(--list-width);
+	/*margin-bottom: 0.5em; /* this is a hack.. for some reason if you don't include this,...
+	you get extra space between line above and start of list*/
 }
 
 li ul {
 	position: relative;
 	left: 0;
 	width: 100%;
-	margin-top: 0.25em;
+	margin-top: 0.25em; /* doesn't seem to affect things */
 }
-*/
+
+/* i: images, icons */
+/* not sure why this is necessary, but otherwise the icons get messed up by the text indent under li */
+i {
+	text-indent: 0em;
+}
+
+/**/
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
@@ -181,6 +242,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
+	/* title / name */
 	color: var(--text-bold);
 	text-align: left;
 	font-size: 3em;
@@ -199,25 +261,34 @@ h2 {
 	font-weight: bolder;
 	font-size: 1.1em;
 	color: var(--accent-color) ;/*accent color #bc412b;*/
-	margin-top: 0em; /*3em*/
+	margin-top: 1em; /*3em*/
 	position: relative;
-	top: 1.4em;
+	/*top: 1.1em; /*1.4em*/
+	top: 1.1em; /*controls position relative to start of list */
 	text-align: right;
 	width: var(--heading-right-edge);
+
+	line-height: 1em; /* should probably be 1.5em for consistency */
 }
 
 h3 {
 	font-size: 1em;
-	line-height: 2em;
+	line-height: 1em; /*2em*/
 	position: relative;
 	top: 1.7em;
 	text-align: right;
 	width:var(--heading-right-edge);
+
+	/*line-height: 1em;*/
+
 }
+
+
 
 /*<hr style="border: 1px dashed #C0C0C0;" />*/
 hr {
-	margin-top: 2em;
+	margin-top: calc(2*var(--between-paragraph-space)); /*2em;*/
+	margin-bottom: var(--between-paragraph-space);
 	border-width: 1px ;
 	border-style: dashed;
 	/*border-style: ridge;*/
@@ -240,6 +311,7 @@ a:hover {
 	color: var(--accent-color);
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 80%;
+	margin-bottom: var(--sub-contact-space);
 }
 
 #webaddress a {
@@ -259,7 +331,6 @@ strong {
 #address {
 	display: none;
 }
-
 
 
 /*
