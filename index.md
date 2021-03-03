@@ -29,7 +29,7 @@ Seeking a position which balances **collaborative research** in understanding an
 
 <hr>
 
-## Professional & Research Experience
+## Research Experience
 
 `2014-present`
 **Graduate Research Assistant**, _Georgia Institute of Technology & Emory University, [SIPLAB](http://siplab.gatech.edu/)_
@@ -61,15 +61,15 @@ Seeking a position which balances **collaborative research** in understanding an
 
 ## Teaching Experience
 
-### Teaching Assistant
+<!--### Teaching Assistant-->
 <!-- BMED 3310, Ross Ethier, Zhenglun Wei, Dennis Zhou-->
 `2015-2016`
-**Biotransport - project-based / hybrid course**
+**Biotransport - project-based / hybrid course** - Teaching Assistant
 - student review score 4.8/5
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
 
 `2021`
-**Information Processing Models in Neural Systems**
+**Information Processing Models in Neural Systems** - Teaching Assistant
 - Graduate Teaching Fellow
 - 3 lectures _(in preparation)_
 
@@ -178,6 +178,7 @@ P. Irazoqui, S. John, A. Kokini, **A. Willats**, A. Chelminski, M. Matuscak, G. 
 **Optical Pressure Treatment through Electrical Stimulation** <a href="https://patents.google.com/patent/US20190001134A1"><i class="fas fa-file-alt"></i></a>
 - Pedro Irazoqui, Simon John, Alex Kokini, **Adam Willats**, Alexander Chelminski, Matt Matuscak, Gabriel Simon
 -->
+<hr>
 ## Outreach & Mentoring
 `2020-2021`
 **Lab Training Guide**
