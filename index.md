@@ -138,11 +138,16 @@ Seeking a position which balances **collaborative research** in understanding an
 <a href="https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a>
 
 
-[@Fallah2020]
-[@Bolus2020]
-[@Cakmak2020]
-[@Bolus2018]
-[@Chow2013]
+K. Fallah, **A. Willats**, N. Liu, C. Rozell, "**Learning sparse codes from compressed representations with biologically plausible local wiring constraints**", _Neural Information Processing Systems (NeurIPS)_, (2020) [<i class="fas fa-file-alt"></i>](https://www.biorxiv.org/content/10.1101/2020.10.23.352443v1)
+
+M. Bolus, **A. Willats**, C. Rozell, G. Stanley, "**State-space optimal feedback control of optogenetically driven neural activity**", _Journal of Neural Engineering_, (2020) [<i class="fas fa-file-alt"></i>](https://doi.org/10.1088%2F1741-2552%2Fabb89c)
+
+A. Cakmak, G. Poian, **A. Willats**, A. Haffar, R. Abdulbaki, Y. Ko, A. Shah, V. Vaccarino, D. Bliwise, C. Rozell, G. Clifford, "**An unbiased, efficient sleep–wake detection algorithm for a population with sleep disorders: change point decoder**", _Sleep_, (2020) [<i class="fas fa-file-alt"></i>](https://doi.org/10.1093%2Fsleep%2Fzsaa011)
+
+M. Bolus, **A. Willats**, C. Whitmire, C. Rozell, G. Stanley, "**Design strategies for dynamic closed-loop optogenetic neurocontrol _in vivo_**", _Journal of Neural Engineering_, (2018) [<i class="fas fa-file-alt"></i>](https://doi.org/10.1088%2F1741-2552%2Faaa506)
+
+E. Chow, H. Joshi, **A. Willats**, D. Thompson, K. Cotton, S. Nair, C. Warren, B. Tomayko, A. Adkins, A. Shen, M. Morris, B. Byerman, "**Commercial development of RF medical implantable devices**", _2013 IEEE MTT-S International Microwave Workshop Series on RF and Wireless Technologies for Biomedical and Healthcare Applications (IMWS-BIO)_, (2013) [<i class="fas fa-file-alt"></i>](https://doi.org/10.1109%2Fimws-bio.2013.6756251)
+
 
 ### Conference Presentations
 
@@ -174,6 +179,10 @@ Seeking a position which balances **collaborative research** in understanding an
 
 
 ### Patents
+G. Clifford, A. Cakmak, **A. Willats**, C. Rozell, "**System for Automated Analysis of Sleep and Wake States**", _PCT/US2020/049392_, (2020) [<i class="fas fa-file-alt"></i>](https://emoryott.technologypublisher.com/technology/42436)
+
+P. Irazoqui, S. John, A. Kokini, **A. Willats**, A. Chelminski, M. Matuscak, G. Simon, "**Optical Pressure Treatment through Electrical Stimulation**", _US20190001134A1_, (2020) [<i class="fas fa-file-alt"></i>](https://patents.google.com/patent/US20190001134A1)
+
 
 `2020`
 **System for Automated Analysis of Sleep and Wake States** <a href="https://emoryott.technologypublisher.com/technology/42436"><i class="fas fa-file-alt"></i></a>
