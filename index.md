@@ -184,6 +184,7 @@ G. Clifford, A. Cakmak, **A. Willats**, C. Rozell, "**System for Automated Analy
 P. Irazoqui, S. John, A. Kokini, **A. Willats**, A. Chelminski, M. Matuscak, G. Simon, "**Optical Pressure Treatment through Electrical Stimulation**", _US20190001134A1_, (2020) [<i class="fas fa-file-alt"></i>](https://patents.google.com/patent/US20190001134A1)
 
 
+<!--
 `2020`
 **System for Automated Analysis of Sleep and Wake States** <a href="https://emoryott.technologypublisher.com/technology/42436"><i class="fas fa-file-alt"></i></a>
 - Gari Clifford, Ayse Cakmak, **Adam Willats**, Christopher Rozell.
@@ -191,7 +192,7 @@ P. Irazoqui, S. John, A. Kokini, **A. Willats**, A. Chelminski, M. Matuscak, G. 
 `2020`
 **Optical Pressure Treatment through Electrical Stimulation** <a href="https://patents.google.com/patent/US20190001134A1"><i class="fas fa-file-alt"></i></a>
 - Pedro Irazoqui, Simon John, Alex Kokini, **Adam Willats**, Alexander Chelminski, Matt Matuscak, Gabriel Simon
-
+-->
 ## Outreach & Mentoring
 `2020-2021`
 **Lab Training Guide**
