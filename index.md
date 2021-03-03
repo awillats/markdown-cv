@@ -22,18 +22,17 @@ Researcher completing a Ph.D in Biomedical Engineering focused at the intersecti
 <!-- ## Research interests
 - Modeling and analysis of neural systems, designing and characterizing control algorithms for the brain. -->
 
-## (Industry) Objective
+## Objective
 
 **Data scientist** experienced in analysis and visualization of complex neural data. Successful **engineer and innovator of responsive technologies** for understanding and regulating the nervous system. Looking to expand the efficacy of neurostimulation therapies through design and development of closed-loop algorithms and individualized data-driven models of the nervous system. Eager to apply expertise within a **collaborative research and development team** to improve quality of life for those experiencing neurological disorders.
 
-## (Academic) Objective
+<!--## (Academic) Objective
 **Computational systems neuroscientist** with experience expanding the toolkit for understanding the brain using data-driven mathematical models of neural dynamics, and responsive closed-loop perturbation of neural circuits.
 **Highly motivated teacher** committed to developing interactive and intuitive ways to communicate concepts to students.
-Seeking a position which balances **collaborative research** in understanding and treating the brain through closed-loop neuroengineering with additional impact through **educating students** in systems neuroscience and control theory.
-
+Seeking a position which balances **collaborative research** in understanding and treating the brain through closed-loop neuroengineering with additional impact through **educating students** in systems neuroscience and control theory.-->
 <hr>
 
-## Professional & Research Experience
+## Experience
 
 `2014-present`
 **Graduate Research Assistant**, _Georgia Institute of Technology & Emory University, [SIPLAB](http://siplab.gatech.edu/)_
@@ -51,49 +50,17 @@ Seeking a position which balances **collaborative research** in understanding an
 `May 2013-Aug 2013`
 **Intern - R&D**, _Cyberonics (now LivaNova)_
 - Characterized, and tested radio frequency programming system for vagus nerve stimulator
-- Streamlined collection and visualization of oscilloscope data by developing a MATLAB GUI
+- Streamlined analysis of oscilloscope data by developing a MATLAB GUI
 - Researched security concerns associated with wireless-enabled implantable medical devices
-
-`Aug 2010–May 2013`
-**Graphic Designer - Interactive info visualization**, _The Purdue Exponent Newspaper_
-- Created illustrations, designs, and data visualizations [<i class="fas fa-images"></i>](https://www.purdueexponent.org/sports/article_24585a47-01b9-5a3b-835b-f4c0f2576cc7.html) [<i class="fas fa-images"></i>](https://www.purdueexponent.org/campus/article_19f1031d-0396-5b21-870a-c7f9f6ca91bc.html)
-- Created interactive online content
-
+<!--graphic design-->
 
 `May 2012-Aug 2012`
 **Undergraduate Researcher**, _Purdue University_, [e-Lab](https://e-lab.github.io/)
-
 - Integrated computer vision systems with mobile robotics platforms as part of the Purdue Summer Undergraduate Research Fellowship (SURF) program  <a href="https://www.youtube.com/watch?v=gULR_IYgruU&ab_channel=EugenioCulurciello"><i class="fab fa-youtube"></i></a>
 - Programmed in C++ and Lua using Robot Operating System (ROS) and torch7
+<!-- **Clinical Engineering Intern** -->
 
-
-
-`Jun 2011-Aug 2011`
-**Clinical Engineering Intern**, _Columbus Regional Hospital, Columbus, IN_
-- Repair, maintenance, and troubleshooting of the hospital's medical equipment
-- Developed preventative maintenance tests in Fluke Biomedical's Ansur Software
-
-## Teaching Experience
-
-### Teaching Assistant
-<!-- BMED 3310, Ross Ethier, Zhenglun Wei, Dennis Zhou-->
-`2015-2016`
-**Biotransport - project-based / hybrid course**
-- student review score 4.8/5
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
-
-`2021`
-**Information Processing Models in Neural Systems**
-- Graduate Teaching Fellow
-- 3 lectures _(in preparation)_
-
-### Tutorials & <br/>Guest Lectures
-**Deep Neural Networks & Cortical Dynamics** - _for Info Processing course_
-- _(in preparation)_
-
-**Inkscape - vector graphics tutorial** [<i class="fas fa-images"></i>](https://docs.google.com/presentation/d/1fQnNB4HAlZ3ZQbJScwo2cUn_7Pjp7lIvAEDChXfeqoI/edit?usp=sharing)
-
-<!-- **Generalized linear models** -->
+<!-- TA, tutorials cut -->
 
 ## Education
 
@@ -127,7 +94,6 @@ Seeking a position which balances **collaborative research** in understanding an
 
 `2015`
 **President's Fellowship** - _Georgia Institute of Technology_
-- Through the continued support of the Georgia Tech Foundation, PFs are offered annually to a select number of highly qualified applicants who intend to pursue doctoral degrees. Fellowship recipients bring exemplary levels of scholarship and innovation to the academic departments who host their study and research.
 
 <hr>
 
@@ -193,7 +159,7 @@ P. Irazoqui, S. John, A. Kokini, **A. Willats**, A. Chelminski, M. Matuscak, G. 
 **Optical Pressure Treatment through Electrical Stimulation** <a href="https://patents.google.com/patent/US20190001134A1"><i class="fas fa-file-alt"></i></a>
 - Pedro Irazoqui, Simon John, Alex Kokini, **Adam Willats**, Alexander Chelminski, Matt Matuscak, Gabriel Simon
 -->
-## Outreach & Mentoring
+## Outreach
 `2020-2021`
 **Lab Training Guide**
 - Initiated and developed document for helping graduate students succeed at research
