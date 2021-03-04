@@ -57,15 +57,17 @@ Seeking a position which balances **collaborative research** in understanding an
 `May 2012-Aug 2012`
 **Undergraduate Researcher**, _Purdue University_, [e-Lab](https://e-lab.github.io/)
 - Integrated computer vision systems with mobile robotics platforms as part of the Purdue Summer Undergraduate Research Fellowship (SURF) program  <a href="https://www.youtube.com/watch?v=gULR_IYgruU&ab_channel=EugenioCulurciello"><i class="fab fa-youtube"></i></a>
-- Programmed in C++ and Lua using Robot Operating System (ROS) and torch7
+- Programmed in C++ and Lua using Robot Operating System (ROS) and torch7 machine learning framework
 <!-- **Clinical Engineering Intern** -->
-
 <!-- TA, tutorials cut -->
 
 ## Education
 
+<!-- put condensed academic stuff here for industry version-->
 `2014-2021`
 **Ph.D. in Biomedical Engineering**,  _Georgia Institute of Technology & Emory University_
+- _Thesis:_ Developing, characterizing, and applying closed-loop control to understand neural circuits
+- Graduate Teaching Fellow
 
 `2010-2014`
 **B.Sc. in Biomedical Engineering**,  _Purdue University_
@@ -84,6 +86,10 @@ Seeking a position which balances **collaborative research** in understanding an
 [**Machine Learning for Control Systems**](https://sites.gatech.edu/acds/), _Georgia Institute of Technology_
 
 <hr>
+## Data Science skills
+**Programming languages:** MATLAB, Python, C++, JavaScript
+
+**Collaborative open-source software development:** Version control through github
 
 
 ## Honors & Awards
@@ -99,7 +105,7 @@ Seeking a position which balances **collaborative research** in understanding an
 
 ## Publications
 
-### Reviewed Publications <!--Reviewed articles? Reviewed papers? reviewed journal articles + neurips-->
+### Reviewed Articles <!--Reviewed articles/publications? Reviewed papers? reviewed journal articles + neurips-->
 <a href="https://orcid.org/0000-0002-0747-5186"><i class="ai ai-orcid"></i> ORCiD</a>
 <a href="https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a>
 _<sup>*</sup>indicates co first-author_

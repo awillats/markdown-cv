@@ -83,7 +83,7 @@ Center for Mind, Brain, and Behavior, October, 2015.
 <!-- https://login.emorybubble.com/posts/6304/neuroscience-workshop%3A--dimensionality-reduction -->
 - Embedding high-dimensional clusters with t-SNE
 
-## Colaborative organizations
+## Collaborative organizations
 - CNTG
 - ENTICe
 - Neuro@GT
