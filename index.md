@@ -86,11 +86,14 @@ Seeking a position which balances **collaborative research** in understanding an
 [**Machine Learning for Control Systems**](https://sites.gatech.edu/acds/), _Georgia Institute of Technology_
 
 <hr>
-## Data Science skills
-**Programming languages:** MATLAB, Python, C++, JavaScript
-
-**Collaborative open-source software development:** Version control through github
-
+## Data Science Skills
+- _Programming languages:_ MATLAB, Python, C++, JavaScript
+- _Interactive visualization:_ MATLAB LiveScript, Jupyter Notebooks, Processing.js
+- _Databases:_ pandas
+- _High-performance, parallel computing:_ Portable Batch System (PBS) script, parallel computation in MATLAB, python
+- _Real-time signal processing:_ [RTXI](http://rtxi.org/), Arduino
+- _Version control_: GitHub
+<!-- Machine Learning Frameworks: PyTorch -->
 
 ## Honors & Awards
 `2014 - 2018`
