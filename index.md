@@ -6,7 +6,8 @@ title: Adam Willats's CV
 # Adam Willats
 <!--Graduate Research Assistant researching at the intersection of systems neuroscience and closed-loop control-->
 
-Researcher completing a Ph.D in Biomedical Engineering focused at the intersection of neuroscience and closed-loop control.
+(~Researcher completing a Ph.D in Biomedical Engineering~)
+focused at the intersection of neuroscience, machine-learning, and closed-loop control.
 
 <div id="webaddress">
 <a href="mailto:adamwillats@gmail.com"><i class="fas fa-envelope"></i> adamwillats@gmail.com </a>
@@ -38,8 +39,11 @@ Seeking a position which balances **collaborative research** in understanding an
 **Graduate Research Assistant**, _Georgia Institute of Technology & Emory University, [SIPLAB](http://siplab.gatech.edu/)_
 - Developed dynamical systems models of neural responses to optogenetic stimulation
 - Characterized algorithms for decoding and controlling brain states _in silico_
-- Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_ [<i class="fab fa-github"></i>](https://github.com/stanley-rozell)
-- Actively participated in both [neuro-engineering](https://neuro.gatech.edu/) and [machine learning](https://ml.gatech.edu/) communities
+- Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_ with <2ms compute times [<i class="fab fa-github"></i>](https://github.com/stanley-rozell)
+- Actively participated in both neuro-engineering [(Neuro@GT)](https://neuro.gatech.edu/) and machine learning communities [(ML@GT)]((https://ml.gatech.edu/))
+- Organized retreats, methods clinics, and journal clubs across two universities as a member of the Computational Neuroscience Training Lead
+- Mentored one undergraduate and three graduate researchers in statistical modeling and neural stimulation technology
+
 
 `Jan 2014-Jun 2014`
 **Undergraduate Researcher**, _Purdue University, [Center for implantable Devices](https://engineering.purdue.edu/CID)_
@@ -87,13 +91,16 @@ Seeking a position which balances **collaborative research** in understanding an
 
 <hr>
 ## Data Science Skills
-- _Programming languages:_ MATLAB, Python, C++, JavaScript
-- _Interactive visualization:_ MATLAB LiveScript, Jupyter Notebooks, Processing.js
-- _Databases:_ pandas
-- _High-performance, parallel computing:_ Portable Batch System (PBS) script, parallel computation in MATLAB, python
-- _Real-time signal processing:_ [RTXI](http://rtxi.org/), Arduino
-- _Version control_: GitHub
+- **Programming languages:** _MATLAB, Python, C++, JavaScript_
+- **Interactive visualization:** _MATLAB LiveScript, Jupyter Notebooks, Processing.js_
+- **Probability & statistical models:** _Generalized linear models (GLM), hidden Markov models (HMM), linear dynamical systems, maximum a posteriori estimation. NumPy, SciKit-Learn_
+- **Databases:** _[pandas](https://pandas.pydata.org/)_
+- **High-performance, parallel computing:** _Portable Batch System (PBS) script, parallel computation in MATLAB, python_
+- **Real-time signal processing:** _[RTXI](http://rtxi.org/), Arduino_
+- **Version control:** _GitHub_
+<!-- Documentation & typesetting: Doxygen, markdown, LaTeX
 <!-- Machine Learning Frameworks: PyTorch -->
+<!-- dimensionality reduction -->
 
 ## Honors & Awards
 `2014 - 2018`
@@ -169,6 +176,7 @@ P. Irazoqui, S. John, A. Kokini, **A. Willats**, A. Chelminski, M. Matuscak, G. 
 **Optical Pressure Treatment through Electrical Stimulation** <a href="https://patents.google.com/patent/US20190001134A1"><i class="fas fa-file-alt"></i></a>
 - Pedro Irazoqui, Simon John, Alex Kokini, **Adam Willats**, Alexander Chelminski, Matt Matuscak, Gabriel Simon
 -->
+<hr>
 ## Outreach
 `2020-2021`
 **Lab Training Guide**
