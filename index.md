@@ -132,19 +132,15 @@ E. Chow, H. Joshi, **A. Willats**, D. Thompson, K. Cotton, S. Nair, C. Warren, B
 
 ### Conference Presentations
 
-[@WillatsNeuromatch]
-[<i class="fas fa-file-alt"></i>](https://neuromatch.io/abstract/?submission_id=recAss5l8wdgBbnAm)
-[<i class="fab fa-youtube"></i>](https://youtu.be/oUKBDF2B3Sw)
+**A. Willats**, M. O'Shaughnessy, K. Johnsen, C. Rozell, "**When are open- and closed-loop control necessary for causal inference in neural circuits?**", _Neuromatch.io_, (2020) [<i class="fas fa-file-alt"></i>](https://neuromatch.io/abstract/?submission_id=recAss5l8wdgBbnAm) [<i class="fab fa-youtube"></i>](https://youtu.be/oUKBDF2B3Sw)
 
-[@Cosyne2018]
- [II-38 in <i class="fas fa-file-alt"></i>](http://cosyne.org/cosyne18/Cosyne2018_program_book.pdf#page=161)
- <!--AA Willats, MF Bolus, CJ Whitmire, GB Stanley, CJ Rozell. State-aware control of neural activity: design & analysis, Cosyne 2018.-->
+**A. Willats**, M. Bolus, C. Whitmire, G. Stanley, C. Rozell, "**State-aware control of neural activity: design & analysis**", _Cosyne Abstracts_, (2018) [II-38 in <i class="fas fa-file-alt"></i>](http://cosyne.org/cosyne18/Cosyne2018_program_book.pdf#page=161)
 
-[@BolusSFN2017]
-[@BolusSFN2016]
-[@Cosyne2016]
+M. Bolus, **A. Willats**, C. Whitmire, C. Rozell, G. Stanley, "**Closed-loop optogenetic control of thalamocortical activity**", _Society for Neuroscience_, (2017) [BB21 in <i class="fas fa-file-alt"></i>](https://www.sfn.org/-/media/SfN/Documents/Annual-Meeting/FinalProgram/NS2017/Daily-Books-2017/AM17-Book5-Tue.ashx?la=en\&hash=63F635417C639D3C9A4738D3AF8CEF7A880E27E2)
 
+<!--M. Bolus, **A. Willats**, C. Whitmire, Z. Costello, "**Closed-loop optogenetic control of neural circuits in vivo: Developing design principles for controlling patterns of neural firing rates**", _Society for Neuroscience_, (2016) [<i class="fas fa-file-alt"></i>](https://www.abstractsonline.com/pp8/index.html\#!/4071/presentation/1309)-->
 
+M. Bolus, **A. Willats**, C. Whitmire, Z. Costello, M. Egerstedt, C. Rozell, G. Stanley, "**Closed-loop optogenetic control of neural circuits: Tracking dynamic trajectories of neural activity**", _Cosyne Abstracts_, (2016) [II-42 in <i class="fas fa-file-alt"></i>](http://cosyne.org/cosyne16/Cosyne2016_program_book.pdf)
 
 ### Patents
 G. Clifford, A. Cakmak, **A. Willats**, C. Rozell, "**System for Automated Analysis of Sleep and Wake States**", _PCT/US2020/049392_, (2020) [<i class="fas fa-file-alt"></i>](https://emoryott.technologypublisher.com/technology/42436)
