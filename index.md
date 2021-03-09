@@ -40,8 +40,9 @@ Seeking a position which balances **collaborative research** in understanding an
 - Developed dynamical systems models of neural responses to optogenetic stimulation
 - Characterized algorithms for decoding and controlling brain states _in silico_
 - Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_ with <2ms compute times [<i class="fab fa-github"></i>](https://github.com/stanley-rozell)
+- Contributed to writing collaborative multi-year research grant which was successfully [funded for $1.6 million](https://petitinstitute.gatech.edu/news/nih-award-supports-groundbreaking-brain-research-tech)
 - Actively participated in both neuro-engineering [(Neuro@GT)](https://neuro.gatech.edu/) and machine learning communities [(ML@GT)]((https://ml.gatech.edu/))
-- Organized retreats, methods clinics, and journal clubs across two universities as a member of the Computational Neuroscience Training Lead
+- Organized retreats, methods clinics, and journal clubs across two universities as a member of the Computational Neuroscience Training Leadership Committee
 - Mentored one undergraduate and three graduate researchers in statistical modeling and neural stimulation technology
 
 

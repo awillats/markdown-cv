@@ -2,19 +2,31 @@
 ## Grant writing contributions
 
 `2021`
-**Closed-loop vagus nerve stimulation - NSF NCS**
+** Latent state modeling of dynamic neurologic stress for individualized closed-loop vagal nerve stimulation- NSF NCS**
+ <!--Collaborative Research: NCS-FO:-->
 
 `2020`
 NSF Science and Technology Center for Intelligent Interactions with the Brain
 
-`2018`
-**CRCNS**
+`2019–2024`
+**NIH-NINDS (R01) CRCNS:** Closed-loop computational neuroscience for causally dissecting circuits
+[funded for $1.6million](https://petitinstitute.gatech.edu/news/nih-award-supports-groundbreaking-brain-research-tech)
+<!-- applied in 2018 -->
 
-`2017`
-**R31 ??**
 
+<!--`2017`
+(thalamic state control)
+BRAIN intuitive - **Thalmocortical state control of tactile sensing: Mechanisms, Models, and Behavior **
+
+**NIH R31 ? R35 in 2018 ? Flopped? **-->
+[link](https://rh.gatech.edu/news/602405/stanley-wins-third-brain-award)
 `2016`
-**NeuroNex - Neurotechnology hub**
+**Neurotechnology hub:** Development and dissemination of a
+platform for closed-loop stimulation of neural circuits
+<!-- significant contribution but ... -->
+<!-- (NeuroNex) didn't get accepted the first time-->
+
+GT/NEC Closed-Loop Optogenetic Control of Single Neurons In Vivo (PI) 2016-2017
 
 
 
