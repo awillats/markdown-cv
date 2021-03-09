@@ -11,11 +11,11 @@
 	--list-width: 100%; /*90-77% also works well, blockier */
 	/*how wide list items are. should generally be similar to body width default 60%*/
 	--date-margin-from-page-edge: 3%; /* default : ??, 5%*/
-	--between-paragraph-space: 1em; /*.5em*/
-	--sub-contact-space: 1em;
+	--between-paragraph-space: 1em; /*1, .5em*/
+	--sub-contact-space: .7em;
 
-	--overall-font-size: 14px; /*13px;*/
-	--default-line-space: 1.3em; /*1.5em*/
+	--overall-font-size: 12px; /*14, 13px;*/
+	--default-line-space: 1.5em; /*1.5em*/
 
 /*
 	--pstart-left: 15%;

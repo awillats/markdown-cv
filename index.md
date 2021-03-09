@@ -5,9 +5,7 @@ title: Adam Willats's CV
 
 # Adam Willats
 <!--Graduate Research Assistant researching at the intersection of systems neuroscience and closed-loop control-->
-
-(~Researcher completing a Ph.D in Biomedical Engineering~)
-focused at the intersection of neuroscience, machine-learning, and closed-loop control.
+Collaborative, interdisciplinary researcher focused at the intersection of neuroscience, machine-learning, and closed-loop control. Currently completing a PhD in Biomedical Engineering.
 
 <div id="webaddress">
 <a href="mailto:adamwillats@gmail.com"><i class="fas fa-envelope"></i> adamwillats@gmail.com </a>
@@ -24,8 +22,8 @@ focused at the intersection of neuroscience, machine-learning, and closed-loop c
 - Modeling and analysis of neural systems, designing and characterizing control algorithms for the brain. -->
 
 ## Objective
-
-**Data scientist** experienced in analysis and visualization of complex neural data. Successful **engineer and innovator of responsive technologies** for understanding and regulating the nervous system. Looking to expand the efficacy of neurostimulation therapies through design and development of closed-loop algorithms and individualized data-driven models of the nervous system. Eager to apply expertise within a **collaborative research and development team** to improve quality of life for those experiencing neurological disorders.
+<!-- across leading machine learning and neuroscience journals-->
+**Data scientist** experienced in analysis and visualization of complex neural data. **Science communicator** driven by developing interactive and intuitive ways to demonstrate concepts to others. Successful **engineer and innovator of responsive technologies** for understanding and regulating the nervous system resulting in two patents, five publications, and development of an open-source codebase. Looking to expand the efficacy of neurostimulation therapies through design and development of closed-loop algorithms and individualized data-driven models of the nervous system. Eager to apply expertise within a **collaborative research and development team** to improve quality of life for those experiencing neurological disorders.
 
 <!--## (Academic) Objective
 **Computational systems neuroscientist** with experience expanding the toolkit for understanding the brain using data-driven mathematical models of neural dynamics, and responsive closed-loop perturbation of neural circuits.
@@ -37,7 +35,7 @@ Seeking a position which balances **collaborative research** in understanding an
 
 `2014-present`
 **Graduate Research Assistant**, _Georgia Institute of Technology & Emory University, [SIPLAB](http://siplab.gatech.edu/)_
-- Developed dynamical systems models of neural responses to optogenetic stimulation
+- Developed recurrent, dynamical systems models of neural responses to optogenetic stimulation
 - Characterized algorithms for decoding and controlling brain states _in silico_
 - Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_ with <2ms compute times [<i class="fab fa-github"></i>](https://github.com/stanley-rozell)
 - Contributed to writing collaborative multi-year research grant which was successfully [funded for $1.6 million](https://petitinstitute.gatech.edu/news/nih-award-supports-groundbreaking-brain-research-tech)
@@ -48,7 +46,7 @@ Seeking a position which balances **collaborative research** in understanding an
 
 `Jan 2014-Jun 2014`
 **Undergraduate Researcher**, _Purdue University, [Center for implantable Devices](https://engineering.purdue.edu/CID)_
-- Developed technology and signal processing algorithms for a novel approach to control intraocular pressure (IOP) to treat glaucoma
+- Developed and patented technology and signal processing algorithms for a novel approach to control intraocular pressure (IOP) to treat glaucoma
 - Conducted surgeries and data analysis to verify prototype performance
 
 
@@ -72,7 +70,9 @@ Seeking a position which balances **collaborative research** in understanding an
 `2014-2021`
 **Ph.D. in Biomedical Engineering**,  _Georgia Institute of Technology & Emory University_
 - _Thesis:_ Developing, characterizing, and applying closed-loop control to understand neural circuits
+- Computational Neuroscience Training Grant Fellow
 - Graduate Teaching Fellow
+- President's Fellowship
 
 `2010-2014`
 **B.Sc. in Biomedical Engineering**,  _Purdue University_
@@ -84,14 +84,15 @@ Seeking a position which balances **collaborative research** in understanding an
 
 `2015`
 [**Mining and modeling neuroscience data**](https://crcns.org/course), _UC Berkeley_
-- The goal of this summer course is to help researchers find new exciting research areas and at the same time to strengthen quantitative expertise in the field of neuroscience.
-- The course integrated lectures from prominent researchers in computational neuroscience, with hands-on analysis of a variety of neuroscience data sets.
+<!-- - The goal of this summer course is to help researchers find new exciting research areas and at the same time to strengthen quantitative expertise in the field of neuroscience. -->
+- This course integrated lectures from prominent researchers in computational neuroscience, with hands-on analysis of a variety of neuroscience data sets.
 
 `2015`
 [**Machine Learning for Control Systems**](https://sites.gatech.edu/acds/), _Georgia Institute of Technology_
 
 <hr>
-## Data Science Skills
+<!-- Data Science Skills-->
+## Data Skills
 - **Programming languages:** _MATLAB, Python, C++, JavaScript_
 - **Interactive visualization:** _MATLAB LiveScript, Jupyter Notebooks, Processing.js_
 - **Probability & statistical models:** _Generalized linear models (GLM), hidden Markov models (HMM), linear dynamical systems, maximum a posteriori estimation. NumPy, SciKit-Learn_
@@ -103,25 +104,21 @@ Seeking a position which balances **collaborative research** in understanding an
 <!-- Machine Learning Frameworks: PyTorch -->
 <!-- dimensionality reduction -->
 
+<!--
 ## Honors & Awards
-`2014 - 2018`
+`2014-2018`
 [**Computational Neuroscience Training Grant Fellowship**](http://nec.gatech.edu/t32-training-program) - _NIH, Emory University, Georgia Institute of Technology_
 - This program supports cross-institute and interdisciplinary training in computational neuroscience, machine learning, and neural engineering.
 - As a fellow in this program I conducted research across multiple laboratories, led journal clubs, organized retreats, and attended training at UC Berkeley.
-
 `2015`
-**President's Fellowship** - _Georgia Institute of Technology_
+**President's Fellowship** - _Georgia Institute of Technology_-->
 
 <hr>
-
+<!--Reviewed articles/publications? Reviewed papers? reviewed journal articles + neurips-->
 ## Publications
-
-### Reviewed Articles <!--Reviewed articles/publications? Reviewed papers? reviewed journal articles + neurips-->
 <a href="https://orcid.org/0000-0002-0747-5186"><i class="ai ai-orcid"></i> ORCiD</a>
-<a href="https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a>
-_<sup>*</sup>indicates co first-author_
-
-
+<a href="https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a> _<sup>*</sup>indicates co first-author_
+### Reviewed Articles
 K. Fallah<sup>*</sup>, **A. Willats<sup>*</sup>**, N. Liu, C. Rozell, "**Learning sparse codes from compressed representations with biologically plausible local wiring constraints**", _Neural Information Processing Systems (NeurIPS)_, (2020) [<i class="fas fa-file-alt"></i>](https://www.biorxiv.org/content/10.1101/2020.10.23.352443v1)
 
 M. Bolus, **A. Willats**, C. Rozell, G. Stanley, "**State-space optimal feedback control of optogenetically driven neural activity**", _Journal of Neural Engineering_, (2020) [<i class="fas fa-file-alt"></i>](https://doi.org/10.1088%2F1741-2552%2Fabb89c)
