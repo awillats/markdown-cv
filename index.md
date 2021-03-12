@@ -13,7 +13,7 @@ Collaborative, interdisciplinary researcher focused at the intersection of neuro
 <br>
 <a href="https://awillats.github.io/markdown-cv/"><i class="fas fa-home"></i> awillats.github.io</a>
 <a href="https://github.com/awillats"><i class="fab fa-github"></i> github.com/awillats</a>
-<a href="https://github.com/awillats"><i class="fab fa-github"></i> github.gatech.edu/awillats3</a>
+<a href="https://github.gatech.edu/awillats3"><i class="fab fa-github"></i> github.gatech.edu/awillats3</a>
 <br>
  <a href="https://linkedin.com/in/adam-willats"><i class="fab fa-linkedin"></i> linkedin.com/in/adam-willats</a>
 </div>
