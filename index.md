@@ -11,9 +11,9 @@ Collaborative, interdisciplinary researcher focused at the intersection of neuro
 <a href="mailto:adamwillats@gmail.com"><i class="fas fa-envelope"></i> adamwillats@gmail.com </a>
 <a href="tel:+1-812-371-0379"><i class="fas fa-phone"></i> +1 (812) 371-0379</a>
 <br>
-<a href="https://awillats.github.io/markdown-cv/"><i class="fas fa-home"></i> awillats.github.io</a>
-<a href="https://github.com/awillats"><i class="fab fa-github"></i> github.com/awillats</a>
-<a href="https://github.gatech.edu/awillats3"><i class="fab fa-github"></i> github.gatech.edu/awillats3</a>
+<a href="https://awillats.github.io/markdown-cv/"><i class="fas fa-home"></i> awillats.github.io (CV) </a>
+<a href="https://github.com/awillats"><i class="fab fa-github"></i> github.com/awillats </a>
+<!-- <a href="https://github.gatech.edu/awillats3"><i class="fab fa-github"></i> awillats3 (GATech research)</a> -->
 <br>
  <a href="https://linkedin.com/in/adam-willats"><i class="fab fa-linkedin"></i> linkedin.com/in/adam-willats</a>
 </div>
@@ -33,27 +33,27 @@ Seeking a position which balances **collaborative research** in understanding an
 
 ## Experience
 
-`2014-present`
+`2014-2021(expected)` <!--expected-->
 **Graduate Research Assistant**, _Georgia Institute of Technology & Emory University, [SIPLAB](http://siplab.gatech.edu/)_
 - Developed recurrent, dynamical systems models of neural responses to optogenetic stimulation
 - Characterized algorithms for decoding and controlling brain states _in silico_
 - Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_ with <2ms compute times [<i class="fab fa-github"></i>](https://github.com/stanley-rozell)
 - Contributed to writing collaborative multi-year research grant which was successfully [funded for $1.6 million](https://petitinstitute.gatech.edu/news/nih-award-supports-groundbreaking-brain-research-tech)
-- Actively participated in both neuro-engineering [(Neuro@GT)](https://neuro.gatech.edu/) and machine learning communities [(ML@GT)]((https://ml.gatech.edu/))
+- Actively participated in both neuro-engineering [(Neuro@GT)](https://neuro.gatech.edu/) and machine learning communities [(ML@GT)](https://ml.gatech.edu/)
 - Organized retreats, methods clinics, and journal clubs across two universities as a member of the Computational Neuroscience Training Leadership Committee
 - Mentored one undergraduate and three graduate researchers in statistical modeling and neural stimulation technology
 
 
 `Jan 2014-Jun 2014`
 **Undergraduate Researcher**, _Purdue University, [Center for implantable Devices](https://engineering.purdue.edu/CID)_
-- Developed and patented technology and signal processing algorithms for a novel approach to control intraocular pressure (IOP) to treat glaucoma
-- Conducted surgeries and data analysis to verify prototype performance
+- Developed and patented technology and signal processing algorithms for a novel approach to control intraocular pressure (IOP) to treat glaucoma [<i class="fas fa-file-alt"></i>](https://patents.google.com/patent/US20190001134A1)
+<!-- - Conducted surgeries and data analysis to verify prototype performance -->
 
 
 `May 2013-Aug 2013`
 **Intern - R&D**, _Cyberonics (now LivaNova)_
 - Characterized, and tested radio frequency programming system for vagus nerve stimulator
-- Streamlined analysis of oscilloscope data by developing a MATLAB GUI
+<!-- - Streamlined analysis of oscilloscope data by developing a MATLAB GUI -->
 - Researched security concerns associated with wireless-enabled implantable medical devices
 <!--graphic design-->
 
