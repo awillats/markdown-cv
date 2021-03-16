@@ -7,15 +7,15 @@
 /* condensed parameters, for pdf printing */
 	--pstart-left: 15%; /* left edge of the main body text default: 25%, 15% */
 	--heading2body-margin: 3%; /* gap between headings and body default: 5%, 3% */
-	--body-width: 75%; /*default 55%, 65%*/
-	--list-width: 100%; /*90-77% also works well, blockier */
-	/*how wide list items are. should generally be similar to body width default 60%*/
-	--date-margin-from-page-edge: 3%; /* default : ??, 5%*/
-	--between-paragraph-space: 1em; /*1, .5em*/
-	--sub-contact-space: .7em;
+	--body-width: 75%; /* default 55%, 65% */
+	--list-width: 100%; /* 90-77% also works well, blockier */
+	/* how wide list items are. should generally be similar to body width default 60% */
+	--date-margin-from-page-edge: 3%; /* default : ??, 5% */
+	--between-paragraph-space: 1em; /* 1, .5em */
+	--sub-contact-space: -1em; /* .7em */
 
-	--overall-font-size: 12px; /*14, 13px;*/
-	--default-line-space: 1.5em; /*1.5em*/
+	--overall-font-size: 12px; /* 14, 13px; */
+	--default-line-space: 1.5em; /* 1.5em */
 
 /*
 	--pstart-left: 15%;
