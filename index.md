@@ -94,7 +94,7 @@ Seeking a position which balances **collaborative research** in understanding an
 - **Programming languages:** _MATLAB, Python, C++, JavaScript_
 - **Teaching through interactive visualization:** _MATLAB LiveScript, Jupyter Notebooks, Processing.js_
 - **Databases:** _[pandas](https://pandas.pydata.org/)_, **Version control:** _GitHub_
-- **High-performance, parallel computing:** _Parallel computation in MATLAB, python.
+- **High-performance, parallel computing:** _Parallel computation in MATLAB, python._
 <!-- Portable Batch System (PBS) script_ -->
 - **Real-time signal processing:** _[RTXI](http://rtxi.org/), Arduino_
 - **Relevant courses:** [Machine Learning for Control Systems](https://sites.gatech.edu/acds/), [Data Science and Scientific Computing](https://ideas.gatech.edu/ideas-summer-workshop-teaches-skills-scientific-computing-and-data-science), [Mining and Modeling Neuroscience Data](https://crcns.org/course),
