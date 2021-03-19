@@ -35,9 +35,10 @@ Seeking a position which balances **collaborative research** in understanding an
 
 `2014-2021 (expected)` <!--expected-->
 **Graduate Research Assistant**, _Georgia Institute of Technology & Emory University, [SIPLAB](http://siplab.gatech.edu/)_
-- Developed recurrent, dynamical systems models of neural responses to optogenetic stimulation
-- Characterized algorithms for decoding and controlling brain states _in silico_
-- Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_ with <2 millisecond compute times [<i class="fab fa-github"></i>](https://github.com/stanley-rozell)
+- Developed recurrent, dynamical systems models of neural responses to optogenetic stimulation using regression and dimensionality reduction
+<!-- - Characterized algorithms for decoding and controlling brain states _in silico_ -->
+- Characterized algorithms for identifying graphical recurrent network models of the brain
+- Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_ with <2 ms compute times [<i class="fab fa-github"></i>](https://github.com/stanley-rozell)
 - Contributed to writing a collaborative multi-year research grant which was successfully [funded for $1.6 million](https://petitinstitute.gatech.edu/news/nih-award-supports-groundbreaking-brain-research-tech)
 - Collaborated and published with peers in both neuroengineering [(Neuro@GT)](https://neuro.gatech.edu/) and machine learning communities [(ML@GT)](https://ml.gatech.edu/)
 <!-- - Organized retreats, methods clinics, and journal clubs across two universities as a member of the Computational Neuroscience Training Leadership Committee-->
@@ -91,6 +92,7 @@ Seeking a position which balances **collaborative research** in understanding an
 ## Data Skills
 
 - **Probability & statistical models:** _NumPy, SciKit-Learn. Generalized linear models (GLM), hidden Markov models (HMM), linear dynamical systems._ <!-- cut bayes / MAP -->
+- **Techniques:** Applied experience in dimensionality reduction, classification, and regression
 - **Programming languages:** _MATLAB, Python, C++, JavaScript_
 - **Teaching through interactive visualization:** _MATLAB LiveScript, Jupyter Notebooks, Processing.js_
 - **Databases:** _[pandas](https://pandas.pydata.org/)_, **Version control:** _GitHub_
@@ -102,7 +104,7 @@ Seeking a position which balances **collaborative research** in understanding an
 <!-- Machine Learning Frameworks: PyTorch -->
 <!-- dimensionality reduction -->
 
-## Honors & Awards
+## Honors
 `2021`
 **Graduate Teaching Fellow** - _Georgia Institute of Technology_
 
@@ -174,8 +176,9 @@ P. Irazoqui, S. John, A. Kokini, **A. Willats**, A. Chelminski, M. Matuscak, G. 
 <!-- example sections i contributed? -->
 
 `2018`
-**Georgia Intern Fellowship for Teachers (GIFT) program, Center for Education
-Integrating Science, Mathematics, and Computing [(CEISMC)](https://www.ceismc.gatech.edu/)**
+**Georgia Intern Fellowship for Teachers (GIFT) program**
+<!-- , Center for Education
+Integrating Science, Mathematics, and Computing [(CEISMC)](https://www.ceismc.gatech.edu/)** -->
 - Mentored teacher in developing curriculum centered around digital signal processing
 
 `2016-2018`
