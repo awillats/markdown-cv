@@ -5,7 +5,7 @@ title: Adam Willats's CV
 
 # Adam Willats
 <!--Graduate Research Assistant researching at the intersection of systems neuroscience and closed-loop control-->
-Collaborative, interdisciplinary researcher focused at the intersection of neuroscience, machine-learning, and closed-loop control. Currently completing a PhD in Biomedical Engineering.
+Collaborative, interdisciplinary researcher focused at the intersection of neuroscience, machine-learning, and closed-loop control. Currently completing a Ph.D. in Biomedical Engineering.
 
 <div id="webaddress">
 <a href="mailto:adamwillats@gmail.com"><i class="fas fa-envelope"></i> adamwillats@gmail.com </a>
@@ -20,7 +20,7 @@ Collaborative, interdisciplinary researcher focused at the intersection of neuro
 <!-- ## Research interests
 - Modeling and analysis of neural systems, designing and characterizing control algorithms for the brain. -->
 
-## Objective
+## Summary & Objective
 <!-- across leading machine learning and neuroscience journals-->
 **Data scientist** experienced in analysis and visualization of complex neural data. Successful **engineer and innovator of responsive technologies** for understanding and regulating the nervous system resulting in two patents, five publications, and development of an open-source codebase. **Science communicator** driven to develop interactive and intuitive ways to demonstrate concepts to others. Eager to apply expertise within a **collaborative research and development team** to improve quality of life for those experiencing neurological disorders through machine learning and neurostimulation therapies.
 <!--  Looking to expand the efficacy of neurostimulation therapies through design and development of closed-loop algorithms and individualized data-driven models of the nervous system. -->
@@ -40,8 +40,8 @@ Seeking a position which balances **collaborative research** in understanding an
 - Characterized algorithms for identifying graphical recurrent network models of the brain
 - Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_ with <2 ms compute times [<i class="fab fa-github"></i>](https://github.com/stanley-rozell)
 - Contributed to writing a collaborative multi-year research grant which was successfully [funded for $1.6 million](https://petitinstitute.gatech.edu/news/nih-award-supports-groundbreaking-brain-research-tech)
-- Collaborated and published with peers in both neuroengineering [(Neuro@GT)](https://neuro.gatech.edu/) and machine learning communities [(ML@GT)](https://ml.gatech.edu/)
-<!-- - Organized retreats, methods clinics, and journal clubs across two universities as a member of the Computational Neuroscience Training Leadership Committee-->
+- Collaborated and published with peers in both neuroengineering [(Neuro@GT)](https://neuro.gatech.edu/) and machine learning [(ML@GT)](https://ml.gatech.edu/)
+- Organized retreats, methods clinics, and journal clubs across two universities as a member of the Computational Neuroscience Training Leadership Committee
 - Mentored one undergraduate and three graduate researchers in statistical modeling and neural stimulation technology
 
 
@@ -55,7 +55,7 @@ Seeking a position which balances **collaborative research** in understanding an
 **Intern - R&D**, _Cyberonics (now LivaNova)_
 - Characterized and tested radio frequency programming system for vagus nerve stimulator
 <!-- - Streamlined analysis of oscilloscope data by developing a MATLAB GUI -->
-- Researched security concerns associated with wireless-enabled implantable medical devices
+- Researched security concerns associated with wireless-enabled implantable medical devices [<i class="fas fa-file-alt"></i>](https://doi.org/10.1109%2Fimws-bio.2013.6756251)
 <!--graphic design-->
 
 `May 2012-Aug 2012`
@@ -91,11 +91,11 @@ Seeking a position which balances **collaborative research** in understanding an
 <!-- Data Science Skills-->
 ## Data Skills
 
-- **Probability & statistical models:** _NumPy, SciKit-Learn. Generalized linear models (GLM), hidden Markov models (HMM), linear dynamical systems._ <!-- cut bayes / MAP -->
+- **Probability & statistical models:** _NumPy, SciKit-Learn. <br> Generalized linear models (GLM), hidden Markov models (HMM), linear dynamical systems._ <!-- cut bayes / MAP -->
 - **Techniques:** Applied experience in dimensionality reduction, classification, and regression
 - **Programming languages:** _MATLAB, Python, C++, JavaScript_
 - **Teaching through interactive visualization:** _MATLAB LiveScript, Jupyter Notebooks, Processing.js_
-- **Databases:** _[pandas](https://pandas.pydata.org/)_, **Version control:** _GitHub_
+- **Version control:** _GitHub_, **Databases:** _[pandas](https://pandas.pydata.org/)_
 - **High-performance, parallel computing:** _Parallel computation in MATLAB, python._
 <!-- Portable Batch System (PBS) script_ -->
 - **Real-time signal processing:** _[RTXI](http://rtxi.org/), Arduino_
@@ -110,8 +110,8 @@ Seeking a position which balances **collaborative research** in understanding an
 
 `2014-2018`
 [**Computational Neuroscience Training Grant Fellow**](http://nec.gatech.edu/t32-training-program) - _NIH, Emory University, Georgia Institute of Technology_
-- This program supports cross-institute and interdisciplinary training in computational neuroscience, machine learning, and neural engineering.
-- As a fellow in this program I conducted research across multiple laboratories, led journal clubs, organized retreats, and attended training at UC Berkeley.
+<!-- - This program supports cross-institute and interdisciplinary training in computational neuroscience, machine learning, and neural engineering.-->
+<!-- - As a fellow in this program I conducted research across multiple laboratories, led journal clubs, organized retreats, and attended training at UC Berkeley. -->
 
 `2015`
 **President's Fellow** - _Georgia Institute of Technology_
@@ -121,7 +121,7 @@ Seeking a position which balances **collaborative research** in understanding an
 ## Publications
 <a href="https://orcid.org/0000-0002-0747-5186"><i class="ai ai-orcid"></i> ORCiD</a><a href="https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a> _<sup>*</sup>indicates co first-author_
 
-### Manuscripts In Preparation
+### Manuscripts in Preparation
 **A. Willats**, M. Bolus, C. Whitmire, G. Stanley, C. Rozell, "**State-aware control of switching neural dynamics**", _(in prep.)_, (2021)
 
 **A. Willats**, M. O'Shaughnessy, C. Rozell, "**Closed-loop control for causal identification of neural circuits**", _(in prep.)_, (2021)
@@ -145,9 +145,9 @@ E. Chow, H. Joshi, **A. Willats**, D. Thompson, K. Cotton, S. Nair, C. Warren, B
 
 **A. Willats**, M. O'Shaughnessy, K. Johnsen, C. Rozell, "**When are open- and closed-loop control necessary for causal inference in neural circuits?**", _Neuromatch.io_, (2020) [<i class="fas fa-file-alt"></i>](https://neuromatch.io/abstract/?submission_id=recAss5l8wdgBbnAm) [<i class="fab fa-youtube"></i>](https://youtu.be/oUKBDF2B3Sw)
 
-**A. Willats**, M. Bolus, C. Whitmire, G. Stanley, C. Rozell, "**State-aware control of neural activity: design & analysis**", _Cosyne Abstracts_, (2018) [II-38 in <i class="fas fa-file-alt"></i>](http://cosyne.org/cosyne18/Cosyne2018_program_book.pdf)
+**A. Willats**, M. Bolus, C. Whitmire, G. Stanley, C. Rozell, "**State-aware control of neural activity: design & analysis**", _Cosyne Abstracts_, (2018) [II-38 <i class="fas fa-file-alt"></i>](http://cosyne.org/cosyne18/Cosyne2018_program_book.pdf)
 
-M. Bolus, **A. Willats**, C. Whitmire, C. Rozell, G. Stanley, "**Closed-loop optogenetic control of thalamocortical activity**", _Society for Neuroscience_, (2017) [BB21 in <i class="fas fa-file-alt"></i>](https://www.sfn.org/-/media/SfN/Documents/Annual-Meeting/FinalProgram/NS2017/Daily-Books-2017/AM17-Book5-Tue.ashx?la=en\&hash=63F635417C639D3C9A4738D3AF8CEF7A880E27E2)
+M. Bolus, **A. Willats**, C. Whitmire, C. Rozell, G. Stanley, "**Closed-loop optogenetic control of thalamocortical activity**", _Society for Neuroscience_, (2017) [BB21 <i class="fas fa-file-alt"></i>](https://www.sfn.org/-/media/SfN/Documents/Annual-Meeting/FinalProgram/NS2017/Daily-Books-2017/AM17-Book5-Tue.ashx?la=en\&hash=63F635417C639D3C9A4738D3AF8CEF7A880E27E2)
 
 <!--M. Bolus, **A. Willats**, C. Whitmire, Z. Costello, "**Closed-loop optogenetic control of neural circuits in vivo: Developing design principles for controlling patterns of neural firing rates**", _Society for Neuroscience_, (2016) [<i class="fas fa-file-alt"></i>](https://www.abstractsonline.com/pp8/index.html\#!/4071/presentation/1309)-->
 
