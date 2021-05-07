@@ -14,7 +14,7 @@ Researcher completing a Ph.D in Biomedical Engineering focused at the intersecti
 <br>
 <a href="https://awillats.github.io/markdown-cv/"><i class="fas fa-home"></i> awillats.github.io</a>
 <a href="https://github.com/awillats"><i class="fab fa-github"></i> github.com/awillats</a>
-<a href="https://github.com/awillats"><i class="fab fa-github"></i> github.gatech.edu/awillats3</a>
+<!-- <a href="https://github.com/awillats"><i class="fab fa-github"></i> github.gatech.edu/awillats3</a> -->
 <br>
  <a href="https://linkedin.com/in/adam-willats"><i class="fab fa-linkedin"></i> linkedin.com/in/adam-willats</a>
 </div>
@@ -39,7 +39,9 @@ Seeking a position which balances **collaborative research** in understanding an
 **Graduate Research Assistant**, _Georgia Institute of Technology & Emory University, [SIPLAB](http://siplab.gatech.edu/)_
 - Developed dynamical systems models of neural responses to optogenetic stimulation
 - Characterized algorithms for decoding and controlling brain states _in silico_
-- Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_ [<i class="fab fa-github"></i>](https://github.com/stanley-rozell)
+- Implemented real-time closed-loop control algorithms to regulate neural firing _in vivo_ [[group page <i class="fab fa-github"></i>]](https://github.com/stanley-rozell)
+[[HMM decoding <i class="fab fa-github"></i>]](https://stanley-rozell.github.io/hmm/)
+[[control & estimation <i class="fab fa-github"></i>]](https://stanley-rozell.github.io/lds-ctrl-est/)
 - Actively participated in both [neuro-engineering](https://neuro.gatech.edu/) and [machine learning](https://ml.gatech.edu/) communities
 
 `Jan 2014-Jun 2014`
@@ -85,11 +87,12 @@ Seeking a position which balances **collaborative research** in understanding an
 `2021`
 **Information Processing Models in Neural Systems**
 - Graduate Teaching Fellow
-- 3 lectures _(in preparation)_
+- Prepared and delivered 4 lectures on dynamics in neural systems [<i class="fab fa-github"></i>](https://github.com/awillats/Dynamics_In_Neuro_Lectures_2021)
+- Developed interactive dynamics demonstration [<i class="fab fa-js"></i>](https://awillats.github.io/dynamics-visualizer-p5/)
+
 
 ### Tutorials & <br/>Guest Lectures
-**Deep Neural Networks & Cortical Dynamics** - _for Info Processing course_
-- _(in preparation)_
+**Recurrent Neural Networks & Cortical Dynamics** - [<i class="fas fa-images"></i>](https://docs.google.com/presentation/d/1HNpeTMkvUsBZubTg0YIa9kBxM2uJ5Iprii4HxZJh5g0/edit)
 
 **Inkscape - vector graphics tutorial** [<i class="fas fa-images"></i>](https://docs.google.com/presentation/d/1fQnNB4HAlZ3ZQbJScwo2cUn_7Pjp7lIvAEDChXfeqoI/edit?usp=sharing)
 
